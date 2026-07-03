@@ -1,1 +1,16 @@
-{}
+{
+    "Main-Menu": {
+        "COSMETICS": "KOSMETIKY",
+        "LOADING": "NAČÍTÁNÍ",
+        "Loading: {0}%": "Načítání: {0}%",
+        "Old": {
+            "BACKUP AND ERASE": "ZÁLOHUJ A SMAŽ",
+            "SKIP\n(NOT RECOMMENDED)": "PŘESKOČIT\n(NENÍ DOPORUČENO)",
+            "WARNING!": "VAROVÁNÍ!"
+        },
+        "PLAY": "HRÁT",
+        "QUIT": "UKONČIT",
+        "SETTINGS": "NASTAVENÍ",
+        "Update Info": "Info o aktualizaci"
+    }
+}
