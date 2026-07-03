@@ -1,1 +1,7 @@
-{}
+{
+    "Main-Menu": {
+        "COSMETICS": "KOZMETİK",
+        "LOGBOOK": "GÜNLÜK",
+        "PLAY": "OYNA"
+    }
+}
