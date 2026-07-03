@@ -1,4 +1,87 @@
 {
+    "Game": {
+        "BANK: {0}": "BANKA: {0}",
+        "Bug Reporting": "Nahlašování Chyb",
+        "Cost:{0} Bank:{1}": "Cena:{0} Banka:{1}",
+        "Dead": {
+            "<color=grey>SCORE: {0}": "<color=grey>SKÓRE: {0}",
+            "Best -": "Nejlepší -",
+            "Bronze Medal": "Bronzová Medaile",
+            "Coming Soon: THE CORE": "Již Brzy: THE CORE",
+            "Coming Soon: THE NEST": "Již Brzy: THE NEST",
+            "Continue": "Pokračovat",
+            "Distance: {0} Meters": "Vzdálenost: {0} Metrů",
+            "FOR NOW...": "ZATÍM...",
+            "Gold Medal": "Zlatá Medaile",
+            "ITEMS": "VĚCI",
+            "Main Menu": "Hlavní Menu",
+            "Modify": "Modifikovat",
+            "Platinum Medal": "Platinová Medaile",
+            "Return to Main Menu": "Vrátit se do Hlavního Menu",
+            "SampleR:14ScreenO": {
+                "request0:START RUN": "ZAČÍT RUN",
+                "request10:DISPLAY": "DISPLEJ",
+                "request11:The total is:": "Výsledek je:",
+                "request12:RESULT.": "VÝSLEDEK.",
+                "request13:STOP RUN.": "UKONČIT RUN.",
+                "request1:IDENTIFICATION DIVISION.": "IDENTIFIKAČNÍ DIVIZE.",
+                "request4:DATA DIVISION.": "DATOVÁ DIVIZE."
+            },
+            "Shiloh #{0}": "Shiloh #{0}",
+            "Silver Medal": "Stříbrná Mediale",
+            "Speed: {0} m/s": "Rychlost: {0} m/s",
+            "Total Deaths: {0}": "Celkově Smrtí: {0}",
+            "Try Again": "Zkusit Znova",
+            "What Next?": "Co Dál?",
+            "Won": "Výhra",
+            "YOU ESCAPED": "UTEKL JSI",
+            "YOU ESCAPED?": "UTEKL JSI?",
+            "sampleR:2": {
+                "request0:LEFT HAND": "LEVÁ RUKA",
+                "request1:RIGHT HAND": "PRAVÁ RUKA",
+                "request::": ":"
+            },
+            "sampleR:3VarT": {
+                "request0:-": "-",
+                "request0::": ":",
+                "request1:Tutorial": "Tutoriál",
+                "request2:CAMPAIGN": "KAMPAŇ",
+                "request2:Global": "Globální"
+            }
+        },
+        "END RUN": "UKONČIT RUN",
+        "End Run": "Ukončit Run",
+        "High Score: {0}": "Nejlepší Skóre: {0}",
+        "I Understand": "Chápu",
+        "Medals:": "Medaile:",
+        "PAUSED": "POZASTAVENO",
+        "RESTART": "RESTARTOVAT",
+        "RESUME": "POKRAČOVAT",
+        "Report": "Nahlásit",
+        "Report Bug": "Nahlásit Chybu",
+        "Score": "Skóre",
+        "Suicide": "Sebevražda",
+        "Time": "Čas",
+        "UNAVAILABLE": "NEPŘÍSTUPNÉ"
+    },
+    "LOGBOOK": {
+        "Stats": {
+            "Average Speed: {0} Meters": "Průměrná Rychlost: {0} Metrů",
+            "Average Speed: {0} m/s": "Průměrná Rychlost: {0} m/s",
+            "Deaths: {0}": "Smrtí: {0}",
+            "SCORE: {0}": "SKÓRE: {0}",
+            "Wins: {0}": "Výher: {0}",
+            "[REDACTED]": "[CENZUROVÁNO]"
+        },
+        "Unlocks": {
+            "Items": {
+                "Items ({0}/{1})": "Věci ({0}/{1})"
+            }
+        }
+    },
+    "LeaderBoard": {
+        "LOADING...": "NAČÍTÁNÍ..."
+    },
     "Main-Menu": {
         "?": {
             "Licensing ({0}/{1})": "Licencování ({0}/{1})",
@@ -12,6 +95,9 @@
             "sampleR:3PublishingC2": {
                 "request0:QA": "QA",
                 "request1:Marketing Manager": "Marketingový Manažer"
+            },
+            "sampleR:3PublishingC3": {
+                "request1:Volunteer Moderators": "Dobrovolní Moderátoři"
             },
             "sampleR:4White KnuckleС2": {
                 "request1:UI": "UI",
@@ -35,7 +121,8 @@
             },
             "sampleR:7PublishingC1": {
                 "request0:DreadXP": "DreadXP",
-                "request2:Director": "Režisér"
+                "request2:Director": "Režisér",
+                "request4:Producer - Project Manager": "Producer - Projektový manažer"
             },
             "sampleR:Licensing": {
                 "request0:Fonts": "Fonty"
@@ -59,9 +146,71 @@
         "Update Info": "Info o aktualizaci"
     },
     "Play": {
+        "CHALLENGE": {
+            "COMMS ARRAY": "KOMUNIKAČNÍ POLE",
+            "Comms<br>Array": "Komunikační<br>Pole"
+        },
         "CLOSE": "ZAVŘÍT",
+        "DEV & QA": {
+            "CUSTOM": "VLASTNÍ"
+        },
+        "ENDLESS": {
+            "COMING SOON": "JIŽ BRZY",
+            "ENDLESS": "NEKONEČNÝ",
+            "Endless Silos": "Nekonečné Sila",
+            "Endless Substructure": "Nekonečná Substruktura",
+            "Endless Superstructure": "Nekonečná Superstruktura"
+        },
+        "Event": {
+            "<i>You are awake. It has felt like decades.</i>\n<color=#c0c0c0ff>- Escape the SB10 Experimental Detention Facility</color>\n<color=#c0c0c0ff>- Hide from threats, stay quiet.</color>": "<i>Jsi vzhůru. Je to jako by uběhly dekády.</i>\n<color=#c0c0c0ff>- Uteč z SB10 Experimental Detention Facility</color>\n<color=#c0c0c0ff>- Schovej se před nebezpečím, zůstaň potichu.</color>",
+            "AUTUMN": "PODZIM",
+            "Chimney": "Komín",
+            "Climb {0} Meters": "Vyšplhej {0} Metrů",
+            "Event": "Event",
+            "Parasite": "Parazit",
+            "WINTER": "ZIMA"
+        },
+        "Global Upgrades": {
+            "sampleG:Global Upgrades": {
+                "LOCKED": "ZAMČENO",
+                "NOT ENOUGH CREDITS": "NEDOSTATEK KREDITŮ",
+                "Requires": "Potřebuje",
+                "Work Gloves (New)": "Pracovní Rukavice (Nové)",
+                "Work Gloves (Used)": "Pracovní Rukavice (Použité)",
+                "header:INSTALL COMPLETE": "INSTALACE HOTOVA",
+                "header:Installing..": "Instaluji..",
+                "header:Once per station, allows you to reroll perks, at a cost.": "Jednou za stanici, dovolí ti znovu vytočit perky, za nějakou cenu.",
+                "header:THANK YOU FOR YOUR HARD WORK": "DĚKUJEME ZA VAŠI PILNOU PRÁCI",
+                "header:Withdraws from your": "Vybere z tvého"
+            }
+        },
+        "MAIN": {
+            "<color=#c0c0c0ff>Learn the basics of how to play White Knuckle.</color>\n- <color=yellow>Basic Climbing</color>\n- <color=yellow>Momentum and Stamina</color>\n- <color=yellow>Core Item Usage</color>": "<color=#c0c0c0ff>Nauč se základy jak hrát White Knuckle.</color>\n- <color=yellow>Základní Šplhání</color>\n- <color=yellow>Momentum a Výdrž</color>\n- <color=yellow>Základy Používaní Předmětů</color>",
+            "CAMPAIGN": "KAMPAŇ",
+            "Campaign": "Kampaň",
+            "Finish the Tutorial": "Dokonči Tutoriál",
+            "MAIN": "HLAVNÍ",
+            "Practice your technique in a safe environment.\n<color=yellow>- Race Mode\n<color=yellow>- Customizeable Difficulty\n<color=yellow>- Endless Climbing\n<color=red>Note: Some Achievements are blocked in this mode.</color>": "Trénuj svoji techniku v bezpečném prostředí.\n<color=yellow>- Závodní Mód\n<color=yellow>- Upravitelná Obtížnost\n<color=yellow>- Nekonečné Šplhání\n<color=red>Poznámka: Některé Úspěchy jsou zablokované v tomto módu.</color>",
+            "TUTORIAL": "TUTORIÁL",
+            "Training Sector": "Trénovací Sektor"
+        },
         "NOT ENOUGH CREDITS": "NEDOSTATEK KREDITŮ",
+        "Other": {
+            "Abyss<br>Playtest": "Abyss<br>Playtest",
+            "BETA": "BETA",
+            "EARLY PLAYTEST": "EARLY PLAYTEST",
+            "Ladder": "Žebřík",
+            "Playground": "Hřiště",
+            "Testing Area": "Testovací Místo"
+        },
         "Work Gloves (New)": "Pracovní Rukavice (Nové)",
-        "Work Gloves (Used)": "Pracovní Rukavice (Použité)"
+        "Work Gloves (Used)": "Pracovní Rukavice (Použité)",
+        "You have insufficient funds to purchase this.": "Nemáš dostatek peněz aby jsi si tohle koupil."
+    },
+    "StartGame": {
+        "Competitive": "Kompetetivní",
+        "Good Luck": "Hodně Štěstí",
+        "Start Run": "Začít Run",
+        "{0}X": "{0}X"
     }
 }
