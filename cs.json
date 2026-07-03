@@ -1,5 +1,46 @@
 {
     "Main-Menu": {
+        "?": {
+            "Licensing ({0}/{1})": "Licencování ({0}/{1})",
+            "Publishing ({0}/{1})": "Vydavatelství ({0}/{1})",
+            "Support ({0}/{1})": "Podpora ({0}/{1})",
+            "White Knuckle ({0}/{1})": "White Knuckle ({0}/{1})",
+            "sampleR:2PublishingC4": {
+                "request0:Community": "Komunita",
+                "request1:Discord moderators": "Discord moderátoři"
+            },
+            "sampleR:3PublishingC2": {
+                "request0:QA": "QA",
+                "request1:Marketing Manager": "Marketingový Manažer"
+            },
+            "sampleR:4White KnuckleС2": {
+                "request1:UI": "UI",
+                "request2:In-game Illustration": "Herní Ilustrace",
+                "request3:Marketing & Trailers": "Marketing & Trailery"
+            },
+            "sampleR:4White KnuckleС3": {
+                "request3:With Help From": "S pomocí od"
+            },
+            "sampleR:5White KnuckleС1": {
+                "request0:Dark Machine Games": "Dark Machine Games",
+                "request1:Programming": "Programování",
+                "request2:Sound and Music": "Zvuky a Hudba",
+                "request3:Game Design": "Herní Design",
+                "request4:Art and Animation": "Art a Animace"
+            },
+            "sampleR:6SupportC4": {
+                "request0:Special Thanks": "Speciální Poděkování",
+                "request1:Friends & Family": "Přátelé a Rodina",
+                "request3:From all of us at Dark Machine": "Od nás všech z Dark Machine"
+            },
+            "sampleR:7PublishingC1": {
+                "request0:DreadXP": "DreadXP",
+                "request2:Director": "Režisér"
+            },
+            "sampleR:Licensing": {
+                "request0:Fonts": "Fonty"
+            }
+        },
         "COSMETICS": "KOSMETIKY",
         "LOADING": "NAČÍTÁNÍ",
         "Loading: {0}%": "Načítání: {0}%",
@@ -11,6 +52,16 @@
         "PLAY": "HRÁT",
         "QUIT": "UKONČIT",
         "SETTINGS": "NASTAVENÍ",
+        "SampleR:2Version": {
+            "request0:[white knuckle-": "[white knuckle-",
+            "request1:[early-access]": "[early-access]"
+        },
         "Update Info": "Info o aktualizaci"
+    },
+    "Play": {
+        "CLOSE": "ZAVŘÍT",
+        "NOT ENOUGH CREDITS": "NEDOSTATEK KREDITŮ",
+        "Work Gloves (New)": "Pracovní Rukavice (Nové)",
+        "Work Gloves (Used)": "Pracovní Rukavice (Použité)"
     }
 }
