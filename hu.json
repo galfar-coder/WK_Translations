@@ -1,1 +1,104 @@
-{}
+{
+    "Main-Menu": {
+        "<color=red>You are playing on a game save from an old version</color>\n\nWe recommend erasing your save to ensure that you are experiencing the new progression as it is meant to be experienced. Additionally, some save information may not transfer correctly.\n\nDon't worry, we'll make a backup of your old data!": "<color=red>Egy régi verzióról játszol.</color>\n\nAzt ajánljuk hogy töröld a mentésed hogy az új haladást megfelelően éld át. Előfordulhat hogy a mentés egy része nem kerül át tökéletesen.\n\nNe félj, készül biztonsági mentés az adatodról!",
+        "?": {
+            "Licensing ({0}/{1})": "Licenszelés ({0}/{1})",
+            "Publishing ({0}/{1})": "Kiadás ({0}/{1})",
+            "Support ({0}/{1})": "Támogatás ({0}/{1})",
+            "White Knuckle ({0}/{1})": "White Knuckle ({0}/{1})",
+            "sample:SupportC1": {
+                "Early Supporters": "Korai Támogatók"
+            },
+            "sampleR:2PublishingC4": {
+                "request0:Community": "Közösség",
+                "request1:Discord moderators": "Discord moderátorok"
+            },
+            "sampleR:2PublishingC5": {
+                "request0:Authorizers": "Hitelesítők",
+                "request1:Discord Leaderboards": "Discord Ranglisták"
+            },
+            "sampleR:3PublishingC2": {
+                "request0:QA": "Minőségellenőrző",
+                "request1:Marketing Manager": "Marketing Menedzser",
+                "request2:Events and Sales Coordinator": "Esemény és Leárazás Vezető"
+            },
+            "sampleR:3PublishingC3": {
+                "request0:Additional Community Management": "További Közösség Menedzselés",
+                "request1:Volunteer Moderators": "Önkéntes Moderátorok",
+                "request2:Evolve PR": "Evolve PR"
+            },
+            "sampleR:4White KnuckleС2": {
+                "request0:Concept Art": "Koncepciós Rajzok",
+                "request1:UI": "UI",
+                "request2:In-game Illustration": "Játékon Belüli Illusztrációk",
+                "request3:Marketing & Trailers": "Marketing & Előzetesek"
+            },
+            "sampleR:4White KnuckleС3": {
+                "request0:Voice Acting": "Szinkronizálás",
+                "request1:Writing": "Írás",
+                "request2:Hand Artists": "Kéz Művészek",
+                "request3:With Help From": "Segítségével a Következőknek"
+            },
+            "sampleR:5White KnuckleС1": {
+                "request0:Dark Machine Games": "Dark Machine Games",
+                "request1:Programming": "Programozás",
+                "request2:Sound and Music": "Hang és Zene",
+                "request3:Game Design": "Játéktervezés",
+                "request4:Art and Animation": "Rajz és Animáció"
+            },
+            "sampleR:6SupportC4": {
+                "request0:Special Thanks": "Külön Köszönet",
+                "request1:Friends & Family": "Barátok és Család",
+                "request2:For putting up with us": "Mert kibírtak minket",
+                "request3:From all of us at Dark Machine": "Tőlünk a Dark Machine-tól",
+                "request4:Thank you for being such amazing members of the community.": "Köszönjük hogy ilyen csodálatos tagjai vagytok a közösségnek.",
+                "request5:And for all the support and feedback you've provided.": "És az összes támogatásnak és visszajelzésnek amit adtatok."
+            },
+            "sampleR:7PublishingC1": {
+                "request0:DreadXP": "DreadXP",
+                "request1:Executive Producer": "Vezető Producer",
+                "request2:Director": "Rendező",
+                "request3:Head of Production and Operations": "Produkcióvezető",
+                "request4:Producer - Project Manager": "Producer - Projekt Menedzser",
+                "request5:Producer - Release Manager": "Producer - Megjelenési Menedzser",
+                "request6:Producer - QA Manager": "Producer - Minőségellenőrző Menedzser"
+            },
+            "sampleR:Licensing": {
+                "request0:Fonts": "Betűtípusok",
+                "request1:A font by Daniel Linssen (Thank you": "Egy betűtípus Daniel Linssen által (Köszönjük"
+            }
+        },
+        "ENTER CAMPAIGN SEED": "KAMPÁNY MAG MEGADÁSA",
+        "ENTER SEED": "MAG",
+        "Generate With Seed": "Maggal Generálás",
+        "LOADING": "BETÖLTÉS",
+        "LOGBOOK": "NAPLÓ",
+        "Loading: {0}%": "Betöltés: {0}%",
+        "Old": {
+            "BACKUP AND ERASE": "PÓTMENTÉS ÉS TÖRLÉS",
+            "CREDITS": "STÁBLISTA",
+            "SKIP\n(NOT RECOMMENDED)": "ÁTUGRÁS\n(NEM AJÁNLOTT)",
+            "Score Bonuses": "Pontbónuszok",
+            "WARNING!": "VIGYÁZAT!"
+        },
+        "Open Changelog": "Változtatások Megnyitása",
+        "PLAY": "JÁTÉK",
+        "QUIT": "KILÉPÉS",
+        "SETTINGS": "BEÁLLÍTÁSOK",
+        "SampleR:2Version": {
+            "request0:[white knuckle-": "[white knuckle-",
+            "request1:[early-access]": "[korai-hozzáférés]"
+        }
+    },
+    "Play": {
+        "CLOSE": "BEZÁR",
+        "Facility": "Létesítmény",
+        "New Maintenance Worker Gloves (Cosmetic)": "Új Karbantartó Munkáskesztyűk (Kozmetikum)",
+        "Ornamental Hammer (Auction)": "Díszes Kalapács (Aukció)",
+        "Requires Starter Loan ({0})": "Szükséges Kezdő Hitel ({0})",
+        "Starter Loan ({0})": "Kezdő Hitel ({0})",
+        "Used Maintenance Worker Gloves (Cosmetic)": "Használt Karbantartó Munkáskesztyűk (Kozmetikum)",
+        "Work Gloves (New)": "Munkáskesztyűk (Új)",
+        "Work Gloves (Used)": "Munkáskesztyűk (Használt)"
+    }
+}
