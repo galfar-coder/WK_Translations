@@ -1,7 +1,133 @@
 {
     "Main-Menu": {
+        "<color=red>You are playing on a game save from an old version</color>\n\nWe recommend erasing your save to ensure that you are experiencing the new progression as it is meant to be experienced. Additionally, some save information may not transfer correctly.\n\nDon't worry, we'll make a backup of your old data!": "<color=red>Eski sürümlerden kalma bir kayıt dosyasıyla oynuyorsunuz</color>\n\nYeni içerikleri ve ilerleyişi olması gerektiği gibi deneyimlemek için eski kayıt dosyanızı silmenizi öneririz. Ayrıca, bazı bilgiler doğru bir şekilde aktarılmayabilir.\n\nMerak etmeyin, eski kaydınızın yedeğini alacağız!",
+        "?": {
+            "Licensing ({0}/{1})": "Lisanslama ({0}/{1})",
+            "Publishing ({0}/{1})": "Yayınlama ({0}/{1})",
+            "Support ({0}/{1})": "Destek ({0}/{1})",
+            "White Knuckle ({0}/{1})": "White Knuckle ({0}/{1})",
+            "sample:SupportC1": {
+                "Early Supporters": "Erken Destekçiler"
+            },
+            "sampleR:2PublishingC4": {
+                "request0:Community": "Topluluk",
+                "request1:Discord moderators": "Discord Moderatörleri"
+            },
+            "sampleR:2PublishingC5": {
+                "request0:Authorizers": "Onaylayanlar",
+                "request1:Discord Leaderboards": "Discord Skor Tabloları"
+            },
+            "sampleR:3PublishingC2": {
+                "request0:QA": "Kalite Kontrol",
+                "request1:Marketing Manager": "Pazarlama Müdürü",
+                "request2:Events and Sales Coordinator": "Etkinlik ve Satış Koordinatörü"
+            },
+            "sampleR:3PublishingC3": {
+                "request0:Additional Community Management": "Ekstra Topluluk Yönetimi",
+                "request1:Volunteer Moderators": "Gönüllü Moderatörler",
+                "request2:Evolve PR": "Evolve PR"
+            },
+            "sampleR:4White KnuckleС2": {
+                "request0:Concept Art": "Konsept Tasarımlar",
+                "request1:UI": "Arayüz",
+                "request2:In-game Illustration": "Oyun İçi Çizimler",
+                "request3:Marketing & Trailers": "Pazarlama & Fragmanlar"
+            },
+            "sampleR:4White KnuckleС3": {
+                "request0:Voice Acting": "Seslendirme",
+                "request1:Writing": "Yazım",
+                "request2:Hand Artists": "El Tasarımcıları",
+                "request3:With Help From": "Yardımcı Olan"
+            },
+            "sampleR:5White KnuckleС1": {
+                "request0:Dark Machine Games": "Dark Machine Games",
+                "request1:Programming": "Programlama",
+                "request2:Sound and Music": "Ses ve Müzik",
+                "request3:Game Design": "Oyun Tasarımı",
+                "request4:Art and Animation": "Sanat ve Animasyon"
+            },
+            "sampleR:6SupportC4": {
+                "request0:Special Thanks": "Özel Teşekkürler",
+                "request1:Friends & Family": "Aile & Arkadaşlar",
+                "request2:For putting up with us": "Bazı katlandıkları için",
+                "request3:From all of us at Dark Machine": "Dark Machine'den hepimiz",
+                "request4:Thank you for being such amazing members of the community.": "Topluluğumuzun muhteşem üyeleri olduğunuz için teşekkür ederiz.",
+                "request5:And for all the support and feedback you've provided.": "Ve sağladığınız destek ve geri bildirim için teşekkürler."
+            },
+            "sampleR:7PublishingC1": {
+                "request0:DreadXP": "DreadXP",
+                "request1:Executive Producer": "Baş Yapımcı",
+                "request2:Director": "Yönetmen",
+                "request3:Head of Production and Operations": "Üretim ve İşletme Müdürü",
+                "request4:Producer - Project Manager": "Yapımcı - Proje Müdürü",
+                "request5:Producer - Release Manager": "Yapımcı - Yayın Müdürü",
+                "request6:Producer - QA Manager": "Yapımcı - Kalite Kontrol Müdürü"
+            },
+            "sampleR:Licensing": {
+                "request0:Fonts": "Yazı Tipleri",
+                "request1:A font by Daniel Linssen (Thank you": "Daniel Linssen tarafından geliştirilen bir yazı tipi (Teşekkürler"
+            }
+        },
         "COSMETICS": "KOZMETİK",
+        "ENTER CAMPAIGN SEED": "HİKAYE SEED'İ GİRİN",
+        "ENTER SEED": "SEED GİR",
+        "Generate With Seed": "Seed İle Üret",
+        "LOADING": "YÜKLENİYOR",
         "LOGBOOK": "GÜNLÜK",
-        "PLAY": "OYNA"
+        "Loading: {0}%": "Yükleniyor: {0}%",
+        "Old": {
+            "BACKUP AND ERASE": "YEDEKLE VE SİL",
+            "CREDITS": "KATKILAR",
+            "SKIP\n(NOT RECOMMENDED)": "GEÇ\n(ÖNERİLMEZ)",
+            "Score Bonuses": "Skor Bonusları",
+            "WARNING!": "UYARI!"
+        },
+        "Open Changelog": "Değişiklikler",
+        "PLAY": "OYNA",
+        "QUIT": "ÇIKIŞ",
+        "SETTINGS": "AYARLAR",
+        "SampleR:2Version": {
+            "request0:[white knuckle-": "[white knuckle-",
+            "request1:[early-access]": "[erken-erişim]"
+        },
+        "Update Info": "Güncelleme\nNotları"
+    },
+    "Play": {
+        "Biomod Oversupply": "Bio-değişim Tedariği",
+        "Buddy Trinket": "Dost Süsü",
+        "CLOSE": "KAPAT",
+        "DP-{0} Hatch Access": "DP-{0} Kapak Erişimi",
+        "Facility": "TESİS",
+        "Facility Credits.": "Tesis Kredileri.",
+        "Global Upgrades": {
+            "sampleG:Global Upgrades": {
+                "CANNOT AFFORD": "KREDİNİZ YETMİYOR",
+                "LOCKED": "KİLİTLİ",
+                "Release DP-{0} Maintenance Security Locks": "DP-{0} Güvenlik Kilitlerini Serbest Bırak",
+                "Requires": "Gerektirir:",
+                "header:A set of specialty work gloves.": "Özel bir çalışma eldiveni seti.",
+                "header:Available For All Maintenance Workers!": "Tüm Bakım Çalışanları İçin Mevcut!",
+                "header:Calming Buddy Trinket: Feeling stressed?": "Yardımcı Dost Süsü: Stres altında mısınız?",
+                "header:For sale: Discovered in the deep facility after the First Event, now available for auction!": "Satılıyor: İlk Olaydan sonra derin tesiste keşfedildi, şimdi açık artırmada mevcut!",
+                "header:INSTALL COMPLETE": "KURULUM TAMAMLANDI",
+                "header:Increases your starting roach bank withdrawal to {0} roaches.": "Başlangıç böcek bankası çekim miktarını {0} böceğe artırır.",
+                "header:Installing..": "Kuruluyor..",
+                "header:LAST BID TIMED OUT. ERROR REACHING AUCTION DIRECTOR SERVICES.": "SON TEKLİF ZAMANI DOLDU. HATA: AÇIK ARTIRMA YÖNETİCİ HİZMETLERİNE ULAŞILAMIYOR.",
+                "header:Maintenance Security Locks": "Bakım Güvenlik Kilitleri",
+                "header:Pouches can stack up to five items for the capacity of one.": "Keseler, bir kapasite kaplayacak şekilde beş öğeye kadar istiflenebilir.",
+                "header:THANK YOU FOR YOUR HARD WORK": "ÇALIŞMANIZ İÇİN TEŞEKKÜR EDERİZ",
+                "header:Withdraws from your": "Şuradan çeker:"
+            }
+        },
+        "NOT ENOUGH CREDITS": "YETERSİZ KREDİ",
+        "New Maintenance Worker Gloves (Cosmetic)": "Yeni Bakım Çalışanı Eldiveni (Kozmetik)",
+        "Ornamental Hammer (Auction)": "Süslü Çekiç (Açık Artırma)",
+        "Pouch Trinket": "Kese Süsü",
+        "Requires Starter Loan ({0})": "Başlangıç Kredisi Gerektirir ({0})",
+        "Starter Loan ({0})": "Başlangıç Kredisi ({0})",
+        "Used Maintenance Worker Gloves (Cosmetic)": "Kullanılmış Bakım Çalışanı Eldiveni (Kozmetik)",
+        "Work Gloves (New)": "Çalışma Eldiveni (Yeni)",
+        "Work Gloves (Used)": "Çalışma Eldiveni (Kullanılmış)",
+        "You have insufficient funds to purchase this.": "Bu satın alımı yapmak için yeterli krediniz bulunmamakta."
     }
 }
