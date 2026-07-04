@@ -111,9 +111,16 @@
             "Publishing ({0}/{1})": "Vydavatelství ({0}/{1})",
             "Support ({0}/{1})": "Podpora ({0}/{1})",
             "White Knuckle ({0}/{1})": "White Knuckle ({0}/{1})",
+            "sample:SupportC1": {
+                "Early Supporters": "První Podporovatelé"
+            },
             "sampleR:2PublishingC4": {
                 "request0:Community": "Komunita",
                 "request1:Discord moderators": "Discord moderátoři"
+            },
+            "sampleR:2PublishingC5": {
+                "request0:Authorizers": "Autorizátoři",
+                "request1:Discord Leaderboards": "Discord Žebříčky"
             },
             "sampleR:3PublishingC2": {
                 "request0:QA": "QA",
@@ -123,11 +130,13 @@
                 "request1:Volunteer Moderators": "Dobrovolní Moderátoři"
             },
             "sampleR:4White KnuckleС2": {
+                "request0:Concept Art": "Konceptuální Art",
                 "request1:UI": "UI",
                 "request2:In-game Illustration": "Herní Ilustrace",
                 "request3:Marketing & Trailers": "Marketing & Trailery"
             },
             "sampleR:4White KnuckleС3": {
+                "request0:Voice Acting": "Dabing",
                 "request3:With Help From": "S pomocí od"
             },
             "sampleR:5White KnuckleС1": {
@@ -144,6 +153,7 @@
             },
             "sampleR:7PublishingC1": {
                 "request0:DreadXP": "DreadXP",
+                "request1:Executive Producer": "Výkonný producent",
                 "request2:Director": "Režisér",
                 "request4:Producer - Project Manager": "Producer - Projektový manažer"
             },
@@ -160,6 +170,7 @@
             "Score Bonuses": "Bonusy Skóre",
             "WARNING!": "VAROVÁNÍ!"
         },
+        "Open Changelog": "Otevřít Seznam Změn",
         "PLAY": "HRÁT",
         "QUIT": "UKONČIT",
         "SETTINGS": "NASTAVENÍ",
@@ -167,11 +178,13 @@
             "request0:[white knuckle-": "[white knuckle-",
             "request1:[early-access]": "[early-access]"
         },
-        "Update Info": "Info o aktualizaci"
+        "Update Info": "Info o Aktualizaci"
     },
     "Play": {
         "CHALLENGE": {
+            "Beat the Tutorial": "Dokonči tutoriál",
             "COMMS ARRAY": "KOMUNIKAČNÍ POLE",
+            "Comms Array": "Komunikační Pole",
             "Comms<br>Array": "Komunikační<br>Pole"
         },
         "CLOSE": "ZAVŘÍT",
@@ -218,6 +231,7 @@
             "Finish the Tutorial": "Dokonči Tutoriál",
             "MAIN": "HLAVNÍ",
             "Practice your technique in a safe environment.\n<color=yellow>- Race Mode\n<color=yellow>- Customizeable Difficulty\n<color=yellow>- Endless Climbing\n<color=red>Note: Some Achievements are blocked in this mode.</color>": "Trénuj svoji techniku v bezpečném prostředí.\n<color=yellow>- Závodní Mód\n<color=yellow>- Upravitelná Obtížnost\n<color=yellow>- Nekonečné Šplhání\n<color=red>Poznámka: Některé Úspěchy jsou zablokované v tomto módu.</color>",
+            "TRAINING": "TRÉNOVÁNÍ",
             "TUTORIAL": "TUTORIÁL",
             "Training Sector": "Trénovací Sektor"
         },
