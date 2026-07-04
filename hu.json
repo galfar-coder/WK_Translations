@@ -122,7 +122,7 @@
                 "request2:Endless Silos": "Végtelen Silók",
                 "request2:Endless Substructure": "Végtelen Alépítmény",
                 "request2:Endless Superstructure": "Végtelen Felépítmény",
-                "request2:Endless underworks": "Végtelen ???",
+                "request2:Endless underworks": "Végtelen Alaprendszerek",
                 "request2:Fractured Territory": "Törött Terület",
                 "request2:Global": "Globális",
                 "request2:Roach Run": "Csótányfutam",
@@ -155,6 +155,13 @@
         "UNSAFE EXIT": "NEM BIZTONSÁGOS KILÉPÉS",
         "ZONE SECURED": "ZÓNA VÉDVE",
         "ZONE SECURED. YOU ARE FREE TO EXIT.": "ZÓNA VÉDVE. NYUGOTTAN KILPÉHETSZ."
+    },
+    "LOGBOOK": {
+        "Unlocks": {
+            "Challenges": {
+                "<size={0}>REDACTED</size>\n<color=grey>LOOP ENDLESS SUBSTRUCTURE</color>": "<size={0}>CENZÚRA</size>\n<color=grey>TEGYÉL EGY KÖRT VÉGTELEN ALÉPÍTMÉNYBEN</color>"
+            }
+        }
     },
     "LeaderBoard": {
         "LOADING...": "BETÖLTÉS...",
@@ -271,7 +278,7 @@
             "COMMS ARRAY": "KOMM. TÖMB",
             "Comms<br>Array": "Komm.<br>Tömb",
             "FRACTURED TERRITORY": "TÖRÖTT TERÜLET",
-            "Loop in Endless Substructure": "Tegyél egy kört Végtelen Szubstruktúrában",
+            "Loop in Endless Substructure": "Tegyél egy kört Végtelen Alépítményben",
             "ROACH RUN": "CSÓTÁNYFUTAM",
             "SHUTTERED RIFT": "VETÍTETT RÉS",
             "Shuttered<br>Rift": "Vetített<br>Rés"
@@ -393,5 +400,8 @@
         "Work Gloves (New)": "Munkáskesztyűk (Új)",
         "Work Gloves (Used)": "Munkáskesztyűk (Használt)",
         "You have insufficient funds to purchase this.": "Nincs elegendő kredited a vásárlásra."
+    },
+    "StartGame": {
+        "CLIMB {0} METERS IN ENDLESS": "MÁSSZ {0} MÉTERT VÉGTELEN MÓDBAN"
     }
 }
