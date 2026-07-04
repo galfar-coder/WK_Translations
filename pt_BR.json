@@ -1,4 +1,83 @@
 {
+    "Cosmetics": {
+        "Hands": {
+            "How Get": {
+                "Save the Mother in Roach Mode": "Salve a Mãe no Modo Barata"
+            }
+        }
+    },
+    "Game": {
+        "BEST STATS": "MELHORES ESTATÍSTICAS",
+        "Dead": {
+            "Play the Campaign": "Jogue a Campanha",
+            "The Training Sector": "O Setor de Treinamento",
+            "sampleR:3VarT": {
+                "request2:CAMPAIGN": "CAMPANHA"
+            }
+        },
+        "END RUN": "FINALIZAR",
+        "End Run": "Finalizar",
+        "Exit": "Sair",
+        "LEAVE RUN": "SAIR",
+        "PAUSED": "PAUSADO",
+        "RESTART": "REINICIAR",
+        "RESUME": "RETOMAR",
+        "Score": "Pontuação"
+    },
+    "LOGBOOK": {
+        "Unlocks": {
+            "Gamemodes": {
+                "<size={0}>REDACTED</size>\n<color=grey>BEAT THE CAMPAIGN</color>": "<size={0}>CENSURADO</size>\n<color=grey>COMPLETE A CAMPANHA</color>"
+            },
+            "Items": {
+                "<size={0}>REDACTED</size>\n<color=grey>PLAY THE CAMPAIGN</color>": "<size={0}>CENSURADO</size>\n<color=grey>JOGUE A CAMPANHA</color>"
+            }
+        }
+    },
+    "MSGETheHeast": {
+        "Crude. Effective.": "Cru. Efetivo.",
+        "Disrespect. I could devour you.": "Que desrespeito. Eu poderia te devorar.",
+        "Horrifying, what your kind does to even yourselves.": "Horripilante, o que a sua espécie faz até consigo mesma.",
+        "It is young.. weak. Feed it or it will tire...": "É jovem.. fraca. Alimente-a ou ela vai se esgotar...",
+        "Malicious thing. Rewards death with food... Typical.": "Coisa maliciosa. Recompensa a morte com comida... Típico.",
+        "Necessary.": "Necessário.",
+        "Not for my taste.": "Não é do meu gosto.",
+        "Not interested.": "Não estou interessada.",
+        "Our gift can be yours.": "Nosso presente pode ser seu.",
+        "Strange, how they still live. Cruel fate.": "Estranho, como ainda vivem. Destino cruel.",
+        "Strange, your imagination.": "Estranho, sua imaginação.",
+        "Strange.. energy. Once a dream.": "Estranha.. energia. Outrora um sonho.",
+        "To go back.. If only I could.": "Voltar atrás.. Se ao menos eu pudesse.",
+        "cease.": "cesse.",
+        "climb, child. time.. slipping.": "escale, criança. tempo.. esvaindo.",
+        "climb, little one.. escape..": "escale, pequenina.. fuja..",
+        "come to me.. quickly..": "venha até mim.. rápido..",
+        "come to me.. quickny..": "venha até mim.. rápdo..",
+        "die.": "morra.",
+        "do not stop.. run": "não pare.. corra",
+        "escape.. little one..": "fuja.. pequenino..",
+        "freedom..": "liberdade..",
+        "friend": "amigo",
+        "i can.. hold it at bay.. for now.": "eu posso.. mantê-lo afastado.. por enquanto.",
+        "it.. comes... release.. me.": "está.. vindo... me.. liberte.",
+        "kind creature": "criatura gentil",
+        "leave. die.": "saia. morra.",
+        "leaving protection... slippery beast. be alert": "deixando a proteção... besta escorregadia. fique alerta",
+        "monster. as the rest of your kind": "monstro. como o resto da sua espécie",
+        "monstrous.": "abominável.",
+        "must hurry": "apresse-se",
+        "must.. kill it..": "precisa.. matá-lo..",
+        "not.. much.. time.. the consumer is here": "resta.. pouco.. tempo.. o consumidor está aqui",
+        "plead.. for your help..": "clamo.. por sua ajuda..",
+        "protection.. offered..": "proteção.. oferecida..",
+        "release.. me... end.. pact..": "me.. liberte... quebre.. pacto..",
+        "run.. run...": "corra.. corra...",
+        "stay in your place": "fique onde está",
+        "thank you child": "obrigada, criança",
+        "the eater of worlds...": "o devorador de mundos...",
+        "what have you done...to my children?": "o que você fez...com minha prole?",
+        "you dream of death?": "você sonha com a morte?"
+    },
     "Main-Menu": {
         "<color=red>You are playing on a game save from an old version</color>\n\nWe recommend erasing your save to ensure that you are experiencing the new progression as it is meant to be experienced. Additionally, some save information may not transfer correctly.\n\nDon't worry, we'll make a backup of your old data!": "<color=red>Você está jogando em um save de uma versão antiga</color>\n\nRecomendamos apagar seus dados salvos para que você possa aproveitar a nova progressão da forma como ela foi planejada. Além disso, algumas informações dos seus dados salvos podem não ser transferidas corretamente.\n\nNão se preocupe, faremos um backup dos seus dados antigos!",
         "?": {
@@ -93,6 +172,17 @@
     "Play": {
         "Biomod Oversupply": "Excesso de Biomodificações",
         "CLOSE": "FECHAR",
+        "ENDLESS": {
+            "BEAT THE CAMPAIGN": "COMPLETE A CAMPANHA",
+            "Beat the Campaign": "Complete a Campanha",
+            "ENDLESS": "INFINITO",
+            "Endless Abyss": "Abismo Infinito",
+            "Endless Habitation": "Habitação Infinita",
+            "Endless Nest": "Ninho Infinito",
+            "Endless Silos": "Silos Infinitos",
+            "Endless Substructure": "Subestrutura Infinita",
+            "Endless Superstructure": "Superestrutura Infinita"
+        },
         "Facility": "Instalação",
         "Facility Credits.": "Créditos da Instalação.",
         "Global Upgrades": {
@@ -120,6 +210,13 @@
                 "header:Withdraws from your": "Saca da sua"
             }
         },
+        "MAIN": {
+            "CAMPAIGN": "CAMPANHA",
+            "Campaign": "Campanha",
+            "Practice your technique in a safe environment.\n<color=yellow>- Race Mode\n<color=yellow>- Customizeable Difficulty\n<color=yellow>- Endless Climbing\n<color=red>Note: Some Achievements are blocked in this mode.</color>": "Pratique sua técnica em um ambiente seguro.\n<color=yellow>- Modo Corrida\n<color=yellow>- Dificuldade Personalizável\n<color=yellow>- Escalada Infinita\n<color=red>Nota: Algumas Conquistas são bloqueadas neste modo.</color>",
+            "TRAINING": "TREINAMENTO",
+            "Training Sector": "Setor de Treinamento"
+        },
         "NOT ENOUGH CREDITS": "CRÉDITOS INSUFICIENTES",
         "New Maintenance Worker Gloves (Cosmetic)": "Luvas de Operário de Manutenção Novas (Cosmético)",
         "Ornamental Hammer (Auction)": "Martelo Ornamental (Leilão)",
@@ -131,7 +228,119 @@
         "Work Gloves (Used)": "Luvas de Trabalho (Usadas)",
         "You have insufficient funds to purchase this.": "Você não tem fundos suficientes para comprar isto."
     },
+    "Settings": {
+        "ARE YOU SURE?": "VOCÊ TEM CERTEZA?",
+        "Accessibility": {
+            "ACCESSIBILITY": "ACESSIBILIDADE",
+            "Accessibility": "Acessibilidade",
+            "Crosshair Scale": "Escala da Retícula",
+            "Details": "Detalhes",
+            "Disable Sprint Animation": "Desativar Animação de Correr",
+            "Disable Sprint FOV Change": "Desativar Mudança de FOV ao Correr",
+            "Double Tap `Shift` to show hidden settings": "Pressione `Shift` duas vezes para mostrar configurações ocultas",
+            "ERASE SAVE": "APAGAR PROGRESSO SALVO",
+            "Enable Experimental Features": "Ativar Recursos Experimentais",
+            "Erase Save": "Apagar Progresso Salvo",
+            "Hand Icon Scale": "Escala do Ícone da Mão",
+            "High Handhold Visibility": "Alta Visibilidade de Apoios de Mão",
+            "High Item Visibility": "Alta Visibilidade de Itens",
+            "Interface": "Interface",
+            "Notice: Experimental Features are included for feedback or testing purposes. As such they are still under heavy development.": "Aviso: Recursos Experimentais são incluídos para fins de feedback ou teste. Como tal, ainda estão em desenvolvimento intenso.",
+            "Other": "Outros",
+            "Reduce Flashing Lights": "Reduzir Luzes Piscantes",
+            "Shimmer Handholds": "Apoios de Mão Brilhantes",
+            "Show Run Timer": "Mostrar Tempo da Run",
+            "Skip Death Popup": "Pular Popup de Morte",
+            "Skip Score Counter": "Pular Contador de Pontuação",
+            "UI Scale": "Escala da Interface",
+            "Visuals": "Visuais"
+        },
+        "Cancel": "Cancelar",
+        "Controls": {
+            "(Default: Off)\nInstead of holding Sprint to swing on rope, holding Sprint allows you to climb.": "(Padrão: Desligado)\nEm vez de segurar Correr para balançar na corda, segurar Correr permite escalar.",
+            "(Default: On)\nRope will swing if you are looking horizontal, but you climb when looking vertically.\nWhen disabled, you have to hold Sprint to swing.": "(Padrão: Ligado)\nA corda vai balançar se você estiver olhando na horizontal, mas você escala quando está olhando na vertical.\nQuando desativado, você precisa segurar Correr para balançar.",
+            "Always Sprint": "Sempre Correr",
+            "Binds": {
+                "Alt": "Alt",
+                "Backwards": "Trás",
+                "Crouch": "Agachar",
+                "Drop-Left": "Largar-Esquerda",
+                "Drop-Right": "Largar-Direita",
+                "Focus": "Foco",
+                "Forward": "Frente",
+                "Hand-Left": "Mão-Esquerda",
+                "Hand-Right": "Mão-Direita",
+                "Hand-Swap": "Trocar-de-Mão",
+                "Inventory": "Inventário",
+                "Jump": "Pular",
+                "Left": "Esquerda",
+                "Move": "Mover",
+                "Pocket-Left": "Guardar-Esquerda",
+                "Pocket-Right": "Guardar-Direita",
+                "Right": "Direita",
+                "Rotate": "Rotacionar",
+                "Sprint": "Correr",
+                "Swap (Alt)": "Trocar (Alt)"
+            },
+            "Camera Controls": "Controles da Câmera",
+            "Controller Acceleration": "Aceleração do Controle",
+            "Controller Binds": "Atribuições de Controle",
+            "Controls": "Controles",
+            "Directional Swing": "Balanço Direcional",
+            "Gameplay Toggles": "Alternâncias de Jogabilidade",
+            "Inverse Rope Swing": "Balanço de Corda Inverso",
+            "Invert Y Axis": "Inverter Eixo Y",
+            "Keyboard & Mouse Binds": "Atribuições de Teclado e Mouse",
+            "Look Sensitivity": "Sensibilidade da Câmera",
+            "Look Sensitivity\n": "Sensibilidade da Câmera\n",
+            "Options": "Opções",
+            "Reset Bindings": "Redefinir Atribuições",
+            "Toggle Crouch": "Alternar Agachamento",
+            "Toggle Focus Mode": "Alternar Modo de Foco",
+            "Toggle Inventory": "Alternar Inventário"
+        },
+        "Save And Close": "Salvar E Sair",
+        "Video/audio": {
+            "Announcer Subtitles": "Legendas da Anunciadora",
+            "Announcer Volume": "Volume da Anunciadora",
+            "Audio": "Áudio",
+            "Brightness": "Brilho",
+            "CRT Effect": "Efeito CRT",
+            "Cloud Quality": "Qualidade das Nuvens",
+            "Dither Effect": "Efeito de Dither",
+            "Effect Quality": "Qualidade dos Efeitos",
+            "Effect Quality\n": "Qualidade dos Efeitos\n",
+            "Field of View": "Campo de Visão",
+            "Forward+ (Experimental)": "Forward+ (Experimental)",
+            "Fullscreen": "Tela Cheia",
+            "Graphics": "Gráficos",
+            "Low Quality Weather": "Clima de Baixa Qualidade",
+            "Master Volume": "Volume Mestre",
+            "Music Volume": "Volume da Música",
+            "Post-Processing": "Pós-Processamento",
+            "Quality": "Qualidade",
+            "Reduced Weather Quality": "Qualidade do Clima Reduzida",
+            "Screen Resolution": "Resolução da Tela",
+            "Subtitle Background": "Fundo da Legenda",
+            "Unlock Framerate": "Desbloquear Taxa de Quadros",
+            "V-Sync": "V-Sync",
+            "VIDEO/AUDIO": "VÍDEO/ÁUDIO",
+            "Vertex Jitter": "Vibração de Vértices",
+            "Video": "Vídeo",
+            "Video/Audio": "Vídeo/Áudio",
+            "{0}x{1} {2}hz": "{0}x{1} {2}hz"
+        }
+    },
     "StartGame": {
         "Trinkets": "Berloques"
+    },
+    "TRAINING": {
+        "sampleR:4BASIC MOVEMENT": {
+            "request0:BASIC MOVEMENT": "MOVIMENTAÇÃO BÁSICA",
+            "request1:to Move": "para se Mover",
+            "request2:to Jump": "para Pular",
+            "request3:to Sprint": "para Correr",
+            "request4:Jump over that obstacle to continue!": "Pule sobre esse obstáculo para continuar!"
+        }
     }
 }
