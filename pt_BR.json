@@ -8,7 +8,9 @@
     },
     "Game": {
         "BEST STATS": "MELHORES ESTATÍSTICAS",
+        "CLIMBED {0} METERS": "{0} METROS ESCALADOS",
         "Dead": {
+            "Distance Climbed:{0} Meters": "Distância Escalada:{0} Metros",
             "Play the Campaign": "Jogue a Campanha",
             "The Training Sector": "O Setor de Treinamento",
             "sampleR:3VarT": {
@@ -25,6 +27,9 @@
         "Score": "Pontuação"
     },
     "LOGBOOK": {
+        "Stats": {
+            "Total Climbed: {0} Meters": "Total Escalado: {0} Metros"
+        },
         "Unlocks": {
             "Gamemodes": {
                 "<size={0}>REDACTED</size>\n<color=grey>BEAT THE CAMPAIGN</color>": "<size={0}>CENSURADO</size>\n<color=grey>COMPLETE A CAMPANHA</color>"
@@ -93,10 +98,11 @@
                 "request1:Discord moderators": "Moderadores do Discord"
             },
             "sampleR:2PublishingC5": {
+                "request0:Authorizers": "Aprovadores",
                 "request1:Discord Leaderboards": "Ranking do Discord"
             },
             "sampleR:3PublishingC2": {
-                "request0:QA": "Controle de Qualidade (QA)",
+                "request0:QA": "QA",
                 "request1:Marketing Manager": "Gerente de Marketing",
                 "request2:Events and Sales Coordinator": "Coordenador de Eventos e Vendas"
             },
@@ -139,7 +145,7 @@
                 "request3:Head of Production and Operations": "Chefe de Produção e Operações",
                 "request4:Producer - Project Manager": "Produtor – Gerente de Projeto",
                 "request5:Producer - Release Manager": "Produtor – Gerente de Lançamento",
-                "request6:Producer - QA Manager": "Produtor – Gerente de Controle de Qualidade (QA)"
+                "request6:Producer - QA Manager": "Produtor – Gerente de QA"
             },
             "sampleR:Licensing": {
                 "request0:Fonts": "Fontes",
@@ -171,51 +177,85 @@
     },
     "Play": {
         "Biomod Oversupply": "Excesso de Biomodificações",
+        "Buddy Trinket": "Berloque do Amigo",
+        "CHALLENGE": {
+            "<b>Communications are down</b>\n<color=#c0c0c0ff>The Comms Array pier has locked up, and each dish requires a firmware update.</color>\n- Grab the <color=yellow>four disks</color>, and deliver them to each <color=yellow>Dish.</color>\n- Then, <color=yellow>return to the server room.": "<b>As comunicações estão fora do ar</b>\n<color=#c0c0c0ff>O píer da Matriz de Comunicações travou, e cada antena/parabólica requer uma atualização de firmware.</color>\nPegue os <color=yellow>quatro discos</color>, e entregue-os em cada <color=yellow>Parabólica.</color>\nDepois, <color=yellow>volte para a sala de servidores.</color>",
+            "<b>Deep In the Old Training Chambers</b>\n<color=#c0c0c0ff>The Event left this sector damaged, but the Local Authority still thinks there's use in it yet.</color>\n- <color=yellow>Race to the end</color> as fast as possible.": "<b>Nas Profundezas das Antigas Câmaras de Treinamento</b>\n<color=#c0c0c0ff>O Evento deixou este setor danificado, mas a Autoridade Local ainda acredita que ele pode ser útil.</color>\n- <color=yellow>Chegue ao fim</color> o mais rápido possível.",
+            "<b>Experimental Artifact: The Shutter</b>\n<color=#c0c0c0ff>Analysis and testing of a Δ-{0} projection has completed.</color>\n- <color=yellow>Use Items</color> to venture into the Extrapolated Dimension.\n- <color=yellow>Retrieve the Disk.</color>\n- Escape the Extrapolated Dimension, <color=red>DO NOT GET ERASED.": "<b>Artefato Experimental: O Obturador</b>\n<color=#c0c0c0ff>Análise e teste de uma projeção Δ-{0} foi concluída.</color>\n<color=yellow>Use Itens</color> para se aventurar na Dimensão Extrapolada.\n<color=yellow>Recupere o Disco.</color>\nEscape da Dimensão Extrapolada, <color=red>NÃO SEJA APAGADO.",
+            "<b>Resource Harvesting</b>\n<color=#c0c0c0ff>Modified Lambda roaches are loose in the Drainage Sector.</color>\n- <color=yellow>Bank valuable roaches.</color>\n- <color=red>Avoid the Mass</color>, send it back down with every roach banked.\n- Bank roaches in the <color=yellow>Mass Damper</color> to lower the Mass even more.": "<b>Coleta de Recursos</b>\n<color=#c0c0c0ff>Baratas Lambda modificadas estão à solta no Setor de Drenagem.</color>\n- <color=yellow>Deposite as baratas valiosas.</color>\n- <color=red>Evite a Massa</color>; cada barata depositada a fará recuar.\n- Deposite baratas no <color=yellow>Amortecedor de Massa</color> para fazer a Massa recuar ainda mais.",
+            "<b>Welcome to the Advanced Course, Climber.</b>\n<color=#c0c0c0ff>Think you're ready to explore the Substructure and beyond?</color>\n- <color=yellow>Race to the end</color> as fast as possible.": "<b>Bem vindo ao Percurso Avançado, Escalador(a).</b>\n<color=#c0c0c0ff>Acha que está pronto(a) para explorar a Subestrutura e além?</color>\n- <color=yellow>Chegue ao fim</color> o mais rápido possível.",
+            "Advanced Course": "Percurso Avançado",
+            "CHALLENGE": "DESAFIO",
+            "Comms Array": "Matriz de Comunicações",
+            "Fractured Territory": "Território Fraturado",
+            "Roach Run": "Corrida das Baratas",
+            "Shuttered Rift": "Fenda do Obturador"
+        },
         "CLOSE": "FECHAR",
+        "DP-{0} Hatch Access": "DP-{0} Acesso à Escotilha",
         "ENDLESS": {
             "BEAT THE CAMPAIGN": "COMPLETE A CAMPANHA",
             "Beat the Campaign": "Complete a Campanha",
+            "COMING SOON": "EM BREVE",
             "ENDLESS": "INFINITO",
             "Endless Abyss": "Abismo Infinito",
             "Endless Habitation": "Habitação Infinita",
             "Endless Nest": "Ninho Infinito",
             "Endless Silos": "Silos Infinitos",
             "Endless Substructure": "Subestrutura Infinita",
-            "Endless Superstructure": "Superestrutura Infinita"
+            "Endless Superstructure": "Superestrutura Infinita",
+            "Reach Habitation": "Chegue na Habitação",
+            "Reach The Nest": "Chegue no Ninho",
+            "Reach the Abyss": "Chegue no Abismo"
         },
         "Facility": "Instalação",
         "Facility Credits.": "Créditos da Instalação.",
         "Global Upgrades": {
             "sampleG:Global Upgrades": {
                 "Biomod Oversupply": "Excesso de Biomods",
+                "Buddy Trinket": "Berloque Amigo",
                 "CANNOT AFFORD": "SALDO INSUFICIENTE",
+                "Deactivates maintenance hatch locks in": "Desativa as travas da escotilha de manutenção em",
+                "Deactivates maintenance hatch locks in Interlude: Ascent.": "Desativa as travas das escotilhas de manutenção em Interlúdio: Ascensão.",
+                "Facility Credits.": "Créditos da Instalação.",
                 "LOCKED": "BLOQUEADO",
+                "NOT ENOUGH CREDITS": "CRÉDITOS INSUFICIENTES",
                 "New Maintenance Worker Gloves (Cosmetic)": "Luvas de Operário da Manutenção Novas (Cosmético)",
                 "Ornamental Hammer (Auction)": "Martelo Ornamental (Leilão)",
+                "Pouch Trinket": "Berloque de Bolso",
                 "Release DP-{0} Maintenance Security Locks": "Liberar Travas de Segurança para Manutenção do DP-{0}",
+                "Requires": "Requer",
                 "Slows time when your inventory is open.": "Desacelera o tempo quando seu inventário está aberto.",
+                "Starter Loan": "Empréstimo Inicial",
                 "Used Maintenance Worker Gloves (Cosmetic)": "Luvas de Operário da Manutenção Novas (Cosmético)",
                 "Work Gloves (New)": "Luvas de Trabalho (novas)",
                 "Work Gloves (Used)": "Luvas de Trabalho (Usadas)",
                 "header:A set of specialty work gloves.": "Um conjunto de luvas de trabalho especializadas.",
                 "header:Available For All Maintenance Workers!": "Disponível para todos os operários da manutenção!",
+                "header:Calming Buddy Trinket: Feeling stressed?": "Berloque Amigo Calmante: Sentindo estresse?",
                 "header:For sale: Discovered in the deep facility after the First Event, now available for auction!": "À venda: Descoberto nas profundezas da instalação após o Primeiro Evento, agora disponível para leilão!",
                 "header:INSTALL COMPLETE": "INSTALAÇÃO COMPLETA",
                 "header:Increases your starting roach bank withdrawal to {0} roaches.": "Aumenta seu saque inicial do banco de baratas para {0} baratas.",
                 "header:Installing..": "Instalando..",
                 "header:LAST BID TIMED OUT. ERROR REACHING AUCTION DIRECTOR SERVICES.": "O TEMPO PARA O ÚLTIMO LANCE EXPIROU. ERRO AO CONTATAR OS SERVIÇOS DO GERENCIADOR DO LEILÃO.",
                 "header:Maintenance Security Locks": "Travas de Segurança para Manutenção",
+                "header:Once per station, allows you to reroll perks, at a cost.": "Uma vez por estação, permite que você substitua as melhorias, mediante um custo.",
                 "header:Pouches can stack up to five items for the capacity of one.": "Bolsos podem empilhar até cinco itens ocupando o espaço de um.",
+                "header:Starting Withdrawal Limit Increase": "Aumento do Limite do Saque Incial",
                 "header:THANK YOU FOR YOUR HARD WORK": "OBRIGADO PELO SEU TRABALHO ÁRDUO",
                 "header:Withdraws from your": "Saca da sua"
             }
         },
         "MAIN": {
+            "<color=#c0c0c0ff>Learn the basics of how to play White Knuckle.</color>\n- <color=yellow>Basic Climbing</color>\n- <color=yellow>Momentum and Stamina</color>\n- <color=yellow>Core Item Usage</color>": "<color=#c0c0c0ff>Aprenda os básicos de como jogar White Knuckle.</color>\n- <color=yellow>Escalada Básica</color>\n- <color=yellow>Momentum e Energia</color>\n- <color=yellow>Uso de Itens</color>",
             "CAMPAIGN": "CAMPANHA",
             "Campaign": "Campanha",
+            "Finish the Tutorial": "Conclua o Tutorial",
+            "MAIN": "PRINCIPAL",
             "Practice your technique in a safe environment.\n<color=yellow>- Race Mode\n<color=yellow>- Customizeable Difficulty\n<color=yellow>- Endless Climbing\n<color=red>Note: Some Achievements are blocked in this mode.</color>": "Pratique sua técnica em um ambiente seguro.\n<color=yellow>- Modo Corrida\n<color=yellow>- Dificuldade Personalizável\n<color=yellow>- Escalada Infinita\n<color=red>Nota: Algumas Conquistas são bloqueadas neste modo.</color>",
             "TRAINING": "TREINAMENTO",
-            "Training Sector": "Setor de Treinamento"
+            "Training Sector": "Setor de Treinamento",
+            "Tutorial": "TUTORIAL"
         },
         "NOT ENOUGH CREDITS": "CRÉDITOS INSUFICIENTES",
         "New Maintenance Worker Gloves (Cosmetic)": "Luvas de Operário de Manutenção Novas (Cosmético)",
@@ -342,5 +382,8 @@
             "request3:to Sprint": "para Correr",
             "request4:Jump over that obstacle to continue!": "Pule sobre esse obstáculo para continuar!"
         }
+    },
+    "announcements": {
+        "<color=#db{0}>UNIDENTIFIED HUMAN - WARNING: <shake a=2.5>(WE/ I/ THEY/ IT/ HE/ SHE)</shake> <shake a=3.8>STARVES..... SUBMIT.</shake>": "<color=#db{0}>HUMANO NÃO IDENTIFICADO - AVISO: <shake a=2.5>(NÓS/ EU/ ELES/ ISSO/ ELE/ ELA)</shake> <shake a=3.8>DEFINHA..... SUBMETA-SE.</shake>"
     }
 }
