@@ -86,6 +86,7 @@
             },
             "Secrets Found <color=grey>({0})": "Megtalált Titkok <color=grey>({0})",
             "Session": "Menet",
+            "Shiloh #{0}": "Shiloh #{0}",
             "Silver Medal": "Ezüstérem",
             "Speed: {0} m/s": "Sebesség: {0} m/s",
             "The Advanced Course": "A Haladó Kurzus",
@@ -228,6 +229,7 @@
                 "request1:A font by Daniel Linssen (Thank you": "Egy betűtípus Daniel Linssen által (Köszönjük"
             }
         },
+        "COSMETICS": "KOZMETIKUMOK",
         "ENTER CAMPAIGN SEED": "KAMPÁNY MAG MEGADÁSA",
         "ENTER SEED": "MAG",
         "Generate With Seed": "Maggal Generálás",
@@ -248,7 +250,8 @@
         "SampleR:2Version": {
             "request0:[white knuckle-": "[white knuckle-",
             "request1:[early-access]": "[korai-hozzáférés]"
-        }
+        },
+        "Update Info": "Infó a Frissítésről"
     },
     "Play": {
         "Biomod Oversupply": "Biomod Túltöltés",
