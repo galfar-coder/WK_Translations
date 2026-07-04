@@ -252,7 +252,7 @@
     },
     "Play": {
         "Biomod Oversupply": "Biomod Túltöltés",
-        "Buddy Trinket": "Pajtás",
+        "Buddy Trinket": "Pajtás Kacat",
         "CHALLENGE": {
             "<b>Communications are down</b>\n<color=#c0c0c0ff>The Comms Array pier has locked up, and each dish requires a firmware update.</color>\n- Grab the <color=yellow>four disks</color>, and deliver them to each <color=yellow>Dish.</color>\n- Then, <color=yellow>return to the server room.": "<b>A kommunikáció leaállt</b>\n<color=#c0c0c0ff>A Kommunikációs Tömb lezárt, és minden parabolának egy firmware frissítésre van szüksége.</color>\n- Fogj meg <color=yellow>négy lemezt</color>, és vidd el őket mindegyik <color=yellow>Parabolához.</color>\n- Végül, <color=yellow>Térj vissza a szerverszobába.",
             "<b>Deep In the Old Training Chambers</b>\n<color=#c0c0c0ff>The Event left this sector damaged, but the Local Authority still thinks there's use in it yet.</color>\n- <color=yellow>Race to the end</color> as fast as possible.": "<b>Mélyen a Régi Edzőkamrákban</b>\n<color=#c0c0c0ff>Az Esemény ezt a szektort szétzúzta, de a Helyi Hatóság úgy gondolja még lehetne használni.</color>\n- <color=yellow>Juss el a végére</color> amilyen gyorsan csak tudsz.",
@@ -279,7 +279,7 @@
             "SECRET REGIONS": "TITKOS RÉGIÓK",
             "SHORTCUT REGIONS": "RÖVIDÍTŐ RÉGIÓK"
         },
-        "DP-{0} Hatch Access": "DP-{0} Nyílás Hozzáférés",
+        "DP-{0} Hatch Access": "MLY-{0} Nyílás Hozzáférés",
         "ENDLESS": {
             "BEAT THE CAMPAIGN": "FEJEZD BE A KAMPÁNYT",
             "Beat the Campaign": "Fejezd be a Kampányt",
@@ -354,7 +354,7 @@
             "MAIN": "ALAP",
             "Practice your technique in a safe environment.\n<color=yellow>- Race Mode\n<color=yellow>- Customizeable Difficulty\n<color=yellow>- Endless Climbing\n<color=red>Note: Some Achievements are blocked in this mode.</color>": "Gyakorold a módszereid egy biztonságos környezetben.\n<color=yellow>- Verseny Mód\n<color=yellow>- Személyre Szabható Nehézség\n<color=yellow>- Végtelen Mászás\n<color=red>Jegyzet: Pár teljesítmény elérhetetlen ebben a módban.</color>",
             "TRAINING": "EDZÉS",
-            "TUTORIAL": "OKTATÁS",
+            "TUTORIAL": "ÚTMUTATÓ",
             "Training Sector": "Edzőszektor"
         },
         "NOT ENOUGH CREDITS": "NINCS ELÉG KREDIT",
@@ -383,7 +383,7 @@
             "Tangled Sink Playtest": "Keszekusza Mosdó Játékteszt",
             "Testing Area": "Tesztelési Terület"
         },
-        "Pouch Trinket": "Tasak",
+        "Pouch Trinket": "Tasak Kacat",
         "Requires Starter Loan ({0})": "Szükséges Kezdő Hitel ({0})",
         "Starter Loan ({0})": "Kezdő Hitel ({0})",
         "Used Maintenance Worker Gloves (Cosmetic)": "Használt Karbantartó Munkáskesztyűk (Kozmetikum)",
