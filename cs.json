@@ -157,6 +157,7 @@
         "Old": {
             "BACKUP AND ERASE": "ZÁLOHUJ A SMAŽ",
             "SKIP\n(NOT RECOMMENDED)": "PŘESKOČIT\n(NENÍ DOPORUČENO)",
+            "Score Bonuses": "Bonusy Skóre",
             "WARNING!": "VAROVÁNÍ!"
         },
         "PLAY": "HRÁT",
@@ -198,10 +199,13 @@
                 "LOCKED": "ZAMČENO",
                 "NOT ENOUGH CREDITS": "NEDOSTATEK KREDITŮ",
                 "Requires": "Potřebuje",
+                "Starter Loan": "Startovací Půjčka",
                 "Work Gloves (New)": "Pracovní Rukavice (Nové)",
                 "Work Gloves (Used)": "Pracovní Rukavice (Použité)",
+                "header:Available For All Maintenance Workers!": "Dostupné Pro Všechny Údržbáře!",
                 "header:INSTALL COMPLETE": "INSTALACE HOTOVA",
                 "header:Installing..": "Instaluji..",
+                "header:Maintenance Security Locks": "Údržbářské Bezpečnostní Zámky",
                 "header:Once per station, allows you to reroll perks, at a cost.": "Jednou za stanici, dovolí ti znovu vytočit perky, za nějakou cenu.",
                 "header:THANK YOU FOR YOUR HARD WORK": "DĚKUJEME ZA VAŠI PILNOU PRÁCI",
                 "header:Withdraws from your": "Vybere z tvého"
