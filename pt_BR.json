@@ -1,9 +1,17 @@
 {
+    "<sprite=\"InputKBM_Spritesheet_{0}\" name=\"LMB\"> - LEFT HAND     :     RIGHT HAND - <sprite=\"InputKBM_Spritesheet_{1}\" name=\"RMB\">": "<sprite=\"InputKBM_Spritesheet_{0}\" name=\"LMB\"> - MÃO ESQUERDA     :     MÃO DIREITA - <sprite=\"InputKBM_Spritesheet_{1}\" name=\"RMB\">",
     "Cosmetics": {
         "Hands": {
+            ".rebmilC eht era uoY": ".)a(rodalacsE )a(o é êcoV",
+            "Bloodied": "Ensanguentado",
+            "Climber": "Escalador(a)",
+            "Experienced Climber": "Escalador(a) Experiente",
+            "Hands": "Mãos",
+            "Hands ({0}/{1})": "Mãos ({0}/{1})",
             "How Get": {
                 "Save the Mother in Roach Mode": "Salve a Mãe no Modo Barata"
-            }
+            },
+            "You are the Climber.": "Você é o(a) Escalador(a)."
         }
     },
     "Game": {
@@ -13,6 +21,10 @@
             "Distance Climbed:{0} Meters": "Distância Escalada:{0} Metros",
             "Play the Campaign": "Jogue a Campanha",
             "The Training Sector": "O Setor de Treinamento",
+            "sampleR:2": {
+                "request0:LEFT HAND": "MÃO ESQUERDA",
+                "request1:RIGHT HAND": "MÃO DIREITA"
+            },
             "sampleR:3VarT": {
                 "request2:CAMPAIGN": "CAMPANHA"
             }
@@ -402,9 +414,21 @@
             "request2:to Jump": "para Pular",
             "request3:to Sprint": "para Correr",
             "request4:Jump over that obstacle to continue!": "Pule sobre esse obstáculo para continuar!"
+        },
+        "sampleR:7INTRO TO CLIMBING": {
+            "request2:and": "e",
+            "request3:readies your hands to grab a climbable surface.": "prepara suas mãos para agarrar uma superfície escalável."
+        },
+        "sampleR:7MANTLING": {
+            "request1:readies your hands to grab a climbable surface.": "prepara suas mãos para agarrar uma superfície escalável.",
+            "request2:Once grabbed, look at the wall move and towards it": "Uma vez agarrado, olhe para a parede e mova-se em direção a ela",
+            "request4:Your hands will automatically grab any valid nearby mantleable surface you aim at if you hold your mouse buttons.": "Suas mãos vão agarrar automaticamente qualquer superfície próxima válida para mantling que você mirar se você segurar os botões do mouse.",
+            "request5:Jump and aim at the high ledge above while holding down both hand buttons.": "Pule e mire na plataforma alta acima enquanto mantém pressionados os dois botões das mãos.",
+            "request6:and": "e"
         }
     },
     "announcements": {
-        "<color=#db{0}>UNIDENTIFIED HUMAN - WARNING: <shake a=2.5>(WE/ I/ THEY/ IT/ HE/ SHE)</shake> <shake a=3.8>STARVES..... SUBMIT.</shake>": "<color=#db{0}>HUMANO NÃO IDENTIFICADO - AVISO: <shake a=2.5>(NÓS/ EU/ ELES/ ISSO/ ELE/ ELA)</shake> <shake a=3.8>DEFINHA..... SUBMETA-SE.</shake>"
+        "<color=#db{0}>UNIDENTIFIED HUMAN - WARNING: <shake a=2.5>(WE/ I/ THEY/ IT/ HE/ SHE)</shake> <shake a=3.8>STARVES..... SUBMIT.</shake>": "<color=#db{0}>HUMANO NÃO IDENTIFICADO - AVISO: <shake a=2.5>(NÓS/ EU/ ELES/ ISSO/ ELE/ ELA)</shake> <shake a=3.8>DEFINHA..... SUBMETA-SE.</shake>",
+        "Hello future maintenance worker, welcome to the Substructure 17 maintenance traversal exam.": "Olá, futuro operário de manutenção. Bem-vindo ao exame de travessia de manutenção da Subestrutura 17."
     }
 }
