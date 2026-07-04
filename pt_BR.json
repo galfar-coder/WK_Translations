@@ -88,13 +88,24 @@
         "Biomod Oversupply": "Excesso de Biomodificações",
         "CLOSE": "FECHAR",
         "Facility": "Instalação",
+        "Facility Credits.": "Créditos da Instalação.",
+        "Global Upgrades": {
+            "sampleG:Global Upgrades": {
+                "header:INSTALL COMPLETE": "INSTALAÇÃO COMPLETA",
+                "header:Installing..": "Instalando..",
+                "header:THANK YOU FOR YOUR HARD WORK": "OBRIGADO PELO SEU TRABALHO ÁRDUO"
+            }
+        },
+        "NOT ENOUGH CREDITS": "CRÉDITOS INSUFICIENTES",
         "New Maintenance Worker Gloves (Cosmetic)": "Luvas de Operário de Manutenção Novas (Cosmético)",
         "Ornamental Hammer (Auction)": "Martelo Ornamental (Leilão)",
+        "Pouch Trinket": "Berloque de Bolso",
         "Requires Starter Loan ({0})": "Requer Empréstimo Inicial ({0})",
         "Starter Loan ({0})": "Empréstimo Inicial ({0})",
         "Used Maintenance Worker Gloves (Cosmetic)": "Luvas de Operário de Manutenção Usadas (Cosmético)",
         "Work Gloves (New)": "Luvas de Trabalho (Novas)",
-        "Work Gloves (Used)": "Luvas de Trabalho (Usadas)"
+        "Work Gloves (Used)": "Luvas de Trabalho (Usadas)",
+        "You have insufficient funds to purchase this.": "Você não tem fundos suficientes para comprar isto."
     },
     "StartGame": {
         "Trinkets": "Berloques"
