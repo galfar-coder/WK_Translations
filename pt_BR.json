@@ -21,10 +21,12 @@
         "End Run": "Finalizar",
         "Exit": "Sair",
         "LEAVE RUN": "SAIR",
+        "Medals:": "Medalhas:",
         "PAUSED": "PAUSADO",
         "RESTART": "REINICIAR",
         "RESUME": "RETOMAR",
-        "Score": "Pontuação"
+        "Score": "Pontuação",
+        "Time": "Tempo"
     },
     "LOGBOOK": {
         "Stats": {
@@ -179,12 +181,15 @@
         "Biomod Oversupply": "Excesso de Biomodificações",
         "Buddy Trinket": "Berloque do Amigo",
         "CHALLENGE": {
-            "<b>Communications are down</b>\n<color=#c0c0c0ff>The Comms Array pier has locked up, and each dish requires a firmware update.</color>\n- Grab the <color=yellow>four disks</color>, and deliver them to each <color=yellow>Dish.</color>\n- Then, <color=yellow>return to the server room.": "<b>As comunicações estão fora do ar</b>\n<color=#c0c0c0ff>O píer da Matriz de Comunicações travou, e cada antena/parabólica requer uma atualização de firmware.</color>\nPegue os <color=yellow>quatro discos</color>, e entregue-os em cada <color=yellow>Parabólica.</color>\nDepois, <color=yellow>volte para a sala de servidores.</color>",
+            "<b>Communications are down</b>\n<color=#c0c0c0ff>The Comms Array pier has locked up, and each dish requires a firmware update.</color>\n- Grab the <color=yellow>four disks</color>, and deliver them to each <color=yellow>Dish.</color>\n- Then, <color=yellow>return to the server room.": "<b>As comunicações estão fora do ar</b>\n<color=#c0c0c0ff>O píer da Matriz de Comunicações travou, e cada parabólica requer uma atualização de firmware.</color>\n- Pegue os <color=yellow>quatro discos</color>, e entregue-os em cada <color=yellow>Parabólica.</color>\n- Depois, <color=yellow>volte para a sala de servidores.",
             "<b>Deep In the Old Training Chambers</b>\n<color=#c0c0c0ff>The Event left this sector damaged, but the Local Authority still thinks there's use in it yet.</color>\n- <color=yellow>Race to the end</color> as fast as possible.": "<b>Nas Profundezas das Antigas Câmaras de Treinamento</b>\n<color=#c0c0c0ff>O Evento deixou este setor danificado, mas a Autoridade Local ainda acredita que ele pode ser útil.</color>\n- <color=yellow>Chegue ao fim</color> o mais rápido possível.",
             "<b>Experimental Artifact: The Shutter</b>\n<color=#c0c0c0ff>Analysis and testing of a Δ-{0} projection has completed.</color>\n- <color=yellow>Use Items</color> to venture into the Extrapolated Dimension.\n- <color=yellow>Retrieve the Disk.</color>\n- Escape the Extrapolated Dimension, <color=red>DO NOT GET ERASED.": "<b>Artefato Experimental: O Obturador</b>\n<color=#c0c0c0ff>Análise e teste de uma projeção Δ-{0} foi concluída.</color>\n<color=yellow>Use Itens</color> para se aventurar na Dimensão Extrapolada.\n<color=yellow>Recupere o Disco.</color>\nEscape da Dimensão Extrapolada, <color=red>NÃO SEJA APAGADO.",
             "<b>Resource Harvesting</b>\n<color=#c0c0c0ff>Modified Lambda roaches are loose in the Drainage Sector.</color>\n- <color=yellow>Bank valuable roaches.</color>\n- <color=red>Avoid the Mass</color>, send it back down with every roach banked.\n- Bank roaches in the <color=yellow>Mass Damper</color> to lower the Mass even more.": "<b>Coleta de Recursos</b>\n<color=#c0c0c0ff>Baratas Lambda modificadas estão à solta no Setor de Drenagem.</color>\n- <color=yellow>Deposite as baratas valiosas.</color>\n- <color=red>Evite a Massa</color>; cada barata depositada a fará recuar.\n- Deposite baratas no <color=yellow>Amortecedor de Massa</color> para fazer a Massa recuar ainda mais.",
             "<b>Welcome to the Advanced Course, Climber.</b>\n<color=#c0c0c0ff>Think you're ready to explore the Substructure and beyond?</color>\n- <color=yellow>Race to the end</color> as fast as possible.": "<b>Bem vindo ao Percurso Avançado, Escalador(a).</b>\n<color=#c0c0c0ff>Acha que está pronto(a) para explorar a Subestrutura e além?</color>\n- <color=yellow>Chegue ao fim</color> o mais rápido possível.",
+            "<b>Welcome to the Boost Course, Climber.</b>\n<color=#c0c0c0ff>Every reaction has an equal and opposite reaction.</color>\n- <color=yellow>Race to the top of the tower</color> as fast as possible.": "<b>Bem-vindo ao Percurso de Impulso, Escalador.</b>\n<color=#c0c0c0ff>Toda reação tem uma reação igual e oposta.</color>\n- <color=yellow>Corra até o topo da torre</color> o mais rápido possível.",
             "Advanced Course": "Percurso Avançado",
+            "Beat the Tutorial": "Complete o Tutorial",
+            "Boost Course": "Percurso de Impulso",
             "CHALLENGE": "DESAFIO",
             "Comms Array": "Matriz de Comunicações",
             "Fractured Territory": "Território Fraturado",
@@ -207,6 +212,15 @@
             "Reach Habitation": "Chegue na Habitação",
             "Reach The Nest": "Chegue no Ninho",
             "Reach the Abyss": "Chegue no Abismo"
+        },
+        "Event": {
+            "<i>You are awake. It has felt like decades.</i>\n<color=#c0c0c0ff>- Escape the SB10 Experimental Detention Facility</color>\n<color=#c0c0c0ff>- Hide from threats, stay quiet.</color>": "<i>Você está acordado. Pareceu décadas.</i>\n<color=#c0c0c0ff>- Escape da Instalação Experimental de Detenção SB10</color>\n<color=#c0c0c0ff>- Esconda-se de ameaças, fique quieto.</color>",
+            "AUTUMN": "OUTONO",
+            "Chimney": "Chaminé",
+            "Climb {0} Meters": "Escale {0} Metros",
+            "Event": "Evento",
+            "Parasite": "Parasita",
+            "WINTER": "INVERNO"
         },
         "Facility": "Instalação",
         "Facility Credits.": "Créditos da Instalação.",
@@ -247,7 +261,7 @@
             }
         },
         "MAIN": {
-            "<color=#c0c0c0ff>Learn the basics of how to play White Knuckle.</color>\n- <color=yellow>Basic Climbing</color>\n- <color=yellow>Momentum and Stamina</color>\n- <color=yellow>Core Item Usage</color>": "<color=#c0c0c0ff>Aprenda os básicos de como jogar White Knuckle.</color>\n- <color=yellow>Escalada Básica</color>\n- <color=yellow>Momentum e Energia</color>\n- <color=yellow>Uso de Itens</color>",
+            "<color=#c0c0c0ff>Learn the basics of how to play White Knuckle.</color>\n- <color=yellow>Basic Climbing</color>\n- <color=yellow>Momentum and Stamina</color>\n- <color=yellow>Core Item Usage</color>": "<color=#c0c0c0ff>Aprenda os básicos de como jogar White Knuckle.</color>\n- <color=yellow>Escalada Básica</color>\n- <color=yellow>Momentum e Energia</color>\n- <color=yellow>Uso de Itens Principais</color>",
             "CAMPAIGN": "CAMPANHA",
             "Campaign": "Campanha",
             "Finish the Tutorial": "Conclua o Tutorial",
@@ -260,6 +274,12 @@
         "NOT ENOUGH CREDITS": "CRÉDITOS INSUFICIENTES",
         "New Maintenance Worker Gloves (Cosmetic)": "Luvas de Operário de Manutenção Novas (Cosmético)",
         "Ornamental Hammer (Auction)": "Martelo Ornamental (Leilão)",
+        "Other": {
+            "BETA": "BETA",
+            "Habitation Playtest": "Playtest da Habitação",
+            "Ladder": "Escada",
+            "Testing Area": "Área de Teste"
+        },
         "Pouch Trinket": "Berloque de Bolso",
         "Requires Starter Loan ({0})": "Requer Empréstimo Inicial ({0})",
         "Starter Loan ({0})": "Empréstimo Inicial ({0})",
