@@ -68,7 +68,11 @@
             }
         },
         "COSMETICS": "COSMÉTICOS",
+        "ENTER CAMPAIGN SEED": "INSERIR SEED DA CAMPANHA",
+        "ENTER SEED": "INSERIR SEED",
+        "Generate With Seed": "Gerar Com Seed",
         "LOADING": "CARREGANDO",
+        "LOGBOOK": "REGISTROS",
         "Loading: {0}%": "Carregando: {0}%",
         "Old": {
             "CREDITS": "CRÉDITOS",
@@ -76,13 +80,15 @@
             "Score Bonuses": "Bônus de Pontuação",
             "WARNING!": "ATENÇÃO!"
         },
+        "Open Changelog": "Abrir Changelog",
         "PLAY": "JOGAR",
         "QUIT": "SAIR",
         "SETTINGS": "CONFIGURAÇÕES",
         "SampleR:2Version": {
             "request0:[white knuckle-": "[white knuckle-",
             "request1:[early-access]": "[acesso-antecipado]"
-        }
+        },
+        "Update Info": "Notas da Atualização"
     },
     "Play": {
         "Biomod Oversupply": "Excesso de Biomodificações",
@@ -91,9 +97,27 @@
         "Facility Credits.": "Créditos da Instalação.",
         "Global Upgrades": {
             "sampleG:Global Upgrades": {
+                "Biomod Oversupply": "Excesso de Biomods",
+                "CANNOT AFFORD": "SALDO INSUFICIENTE",
+                "LOCKED": "BLOQUEADO",
+                "New Maintenance Worker Gloves (Cosmetic)": "Luvas de Operário da Manutenção Novas (Cosmético)",
+                "Ornamental Hammer (Auction)": "Martelo Ornamental (Leilão)",
+                "Release DP-{0} Maintenance Security Locks": "Liberar Travas de Segurança para Manutenção do DP-{0}",
+                "Slows time when your inventory is open.": "Desacelera o tempo quando seu inventário está aberto.",
+                "Used Maintenance Worker Gloves (Cosmetic)": "Luvas de Operário da Manutenção Novas (Cosmético)",
+                "Work Gloves (New)": "Luvas de Trabalho (novas)",
+                "Work Gloves (Used)": "Luvas de Trabalho (Usadas)",
+                "header:A set of specialty work gloves.": "Um conjunto de luvas de trabalho especializadas.",
+                "header:Available For All Maintenance Workers!": "Disponível para todos os operários da manutenção!",
+                "header:For sale: Discovered in the deep facility after the First Event, now available for auction!": "À venda: Descoberto nas profundezas da instalação após o Primeiro Evento, agora disponível para leilão!",
                 "header:INSTALL COMPLETE": "INSTALAÇÃO COMPLETA",
+                "header:Increases your starting roach bank withdrawal to {0} roaches.": "Aumenta seu saque inicial do banco de baratas para {0} baratas.",
                 "header:Installing..": "Instalando..",
-                "header:THANK YOU FOR YOUR HARD WORK": "OBRIGADO PELO SEU TRABALHO ÁRDUO"
+                "header:LAST BID TIMED OUT. ERROR REACHING AUCTION DIRECTOR SERVICES.": "O TEMPO PARA O ÚLTIMO LANCE EXPIROU. ERRO AO CONTATAR OS SERVIÇOS DO GERENCIADOR DO LEILÃO.",
+                "header:Maintenance Security Locks": "Travas de Segurança para Manutenção",
+                "header:Pouches can stack up to five items for the capacity of one.": "Bolsos podem empilhar até cinco itens ocupando o espaço de um.",
+                "header:THANK YOU FOR YOUR HARD WORK": "OBRIGADO PELO SEU TRABALHO ÁRDUO",
+                "header:Withdraws from your": "Saca da sua"
             }
         },
         "NOT ENOUGH CREDITS": "CRÉDITOS INSUFICIENTES",
