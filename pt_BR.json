@@ -408,6 +408,21 @@
         "Trinkets": "Berloques"
     },
     "TRAINING": {
+        "sampleR:12ITEMS & YOUR INVENTORY": {
+            "request0:ITEMS & YOUR INVENTORY": "ITENS E SEU INVENTÁRIO",
+            "request10:for your right hand.": "para sua mão direita.",
+            "request1:You can pick up an item by grabbing it with either hand.": "Você pode pegar um item agarrando-o com qualquer uma das mãos.",
+            "request2:Use": "Use",
+            "request3:the item by pressing the hand button holding the item.": "o item pressionando o botão da mão que está segurando o item.",
+            "request6:and clicking where you want to place the item.": "e clicando onde você quer colocar o item.",
+            "request7:Opening your inventory and grabbing an item will put it back in your hand.": "Abrir o seu inventário e pegar um item vai colocá-lo de volta na sua mão.",
+            "request9:for your left hand and": "para sua mão esquerda e"
+        },
+        "sampleR:3CROUCHING": {
+            "request0:CROUCHING": "AGACHANDO",
+            "request1:You can hold crouch with the crouch button!": "Você pode manter-se agachado segurando o botão de agachar!",
+            "request2:Crouch and walk under this obstruction.": "Agache-se e ande por baixo dessa obstrução."
+        },
         "sampleR:4BASIC MOVEMENT": {
             "request0:BASIC MOVEMENT": "MOVIMENTAÇÃO BÁSICA",
             "request1:to Move": "para se Mover",
@@ -415,13 +430,33 @@
             "request3:to Sprint": "para Correr",
             "request4:Jump over that obstacle to continue!": "Pule sobre esse obstáculo para continuar!"
         },
+        "sampleR:5POCKETS": {
+            "request1:You have two pockets in your inventory, represented by the circles on each side, that you can store a single item in from each hand.": "Você tem dois bolsos no seu inventário, representados pelos círculos em cada lado, nos quais você pode guardar um único item de cada mão."
+        },
+        "sampleR:6MOMENTUM": {
+            "request0:MOMENTUM": "MOMENTUM",
+            "request1:tag:<color=red>MOMENTUM</color>": "tag:<color=red>MOMENTUM</color>",
+            "request2:It's important to use": "É importante usar o",
+            "request3:to your advantage.": "a seu favor.",
+            "request4:Jump to this hanging pole": "Pule até essa barra pendurada",
+            "request5:while readying your hands": "enquanto prepara suas mãos",
+            "request6:Once on it, swing back, then swing forwards and release with a jump to fly further.": "Uma vez nela, balance para trás, depois balance para frente e solte com um pulo para voar mais longe."
+        },
         "sampleR:7INTRO TO CLIMBING": {
+            "request0:INTRO TO CLIMBING": "INTRODUÇÃO À ESCALADA",
+            "request1:Your": "Seu",
             "request2:and": "e",
-            "request3:readies your hands to grab a climbable surface.": "prepara suas mãos para agarrar uma superfície escalável."
+            "request3:readies your hands to grab a climbable surface.": "prepara suas mãos para agarrar uma superfície escalável.",
+            "request4:Use your movement keys": "Use suas teclas de movimento",
+            "request5:to navigate between climbable surfaces up to the platform above you.": "para navegar entre superfícies escaláveis até a plataforma acima de você.",
+            "request6:Handholds and other climbing surfaces most often appear": "Apoios de Mão e outras superfícies escaláveis frequentemente parecem",
+            "request7:red": "vermelhos",
+            "request8:like these, but remember that any ledge can be grabbed!": "como estas, mas lembre-se de que qualquer quina pode ser agarrada!"
         },
         "sampleR:7MANTLING": {
             "request1:readies your hands to grab a climbable surface.": "prepara suas mãos para agarrar uma superfície escalável.",
             "request2:Once grabbed, look at the wall move and towards it": "Uma vez agarrado, olhe para a parede e mova-se em direção a ela",
+            "request3:to climb up.": "para escalar.",
             "request4:Your hands will automatically grab any valid nearby mantleable surface you aim at if you hold your mouse buttons.": "Suas mãos vão agarrar automaticamente qualquer superfície próxima válida para mantling que você mirar se você segurar os botões do mouse.",
             "request5:Jump and aim at the high ledge above while holding down both hand buttons.": "Pule e mire na plataforma alta acima enquanto mantém pressionados os dois botões das mãos.",
             "request6:and": "e"
@@ -429,6 +464,11 @@
     },
     "announcements": {
         "<color=#db{0}>UNIDENTIFIED HUMAN - WARNING: <shake a=2.5>(WE/ I/ THEY/ IT/ HE/ SHE)</shake> <shake a=3.8>STARVES..... SUBMIT.</shake>": "<color=#db{0}>HUMANO NÃO IDENTIFICADO - AVISO: <shake a=2.5>(NÓS/ EU/ ELES/ ISSO/ ELE/ ELA)</shake> <shake a=3.8>DEFINHA..... SUBMETA-SE.</shake>",
-        "Hello future maintenance worker, welcome to the Substructure 17 maintenance traversal exam.": "Olá, futuro operário de manutenção. Bem-vindo ao exame de travessia de manutenção da Subestrutura 17."
+        "Hello future maintenance worker, welcome to the Substructure 17 maintenance traversal exam.": "Olá, futuro operário de manutenção. Bem-vindo ao exame de travessia de manutenção da Subestrutura 17.",
+        "Thank you maintenance worker for completing the Substructure 17 maintenance traversal exam.": "Obrigado, operário de manutenção, por completar o exame de travessia de manutenção da Subestrutura 17.",
+        "This exam will test your navigational and problem solving capabilities,": "Este exame vai testar suas capacidades de navegação e resolução de problemas,",
+        "This exam will test your navigational and problem solving capabilities, to ensure that you are capable of accessing even remote parts of the Substructure.": "Este exame vai testar suas capacidades de navegação e resolução de problemas, para garantir que você é capaz de acessar até mesmo as partes mais remotas da Subestrutura.",
+        "We hope you enjoy your time as a Substructure 17 maintenance worker. Hit the button to begin your career.": "Esperamos que você aproveite seu tempo como operário de manutenção da Subestrutura 17. Aperte o botão para começar sua carreira.",
+        "to ensure that you are capable of accessing even remote parts of the Substructure.": "para garantir que você é capaz de acessar até mesmo as partes mais remotas da Subestrutura."
     }
 }
