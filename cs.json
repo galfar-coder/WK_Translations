@@ -52,6 +52,7 @@
         },
         "END RUN": "UKONČIT RUN",
         "End Run": "Ukončit Run",
+        "Give Disk": "Dát Disk",
         "High Score: {0}": "Nejlepší Skóre: {0}",
         "I Understand": "Chápu",
         "Medals:": "Medaile:",
@@ -62,6 +63,7 @@
         "Report Bug": "Nahlásit Chybu",
         "Score": "Skóre",
         "Suicide": "Sebevražda",
+        "Teleport To\nLab": "Teleport Do\nLaboratoře",
         "Time": "Čas",
         "UNAVAILABLE": "NEPŘÍSTUPNÉ"
     },
