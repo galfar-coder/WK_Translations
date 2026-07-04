@@ -12,14 +12,19 @@
             "Coming Soon: THE CORE": "Již Brzy: THE CORE",
             "Coming Soon: THE NEST": "Již Brzy: THE NEST",
             "Continue": "Pokračovat",
+            "DISTANCE: {#0}": "VZDÁLENOST: {#0}",
+            "DISTANCE: {#0}{1}M": "VZDÁLENOST: {#0}{1}M",
             "Distance: {0} Meters": "Vzdálenost: {0} Metrů",
             "FOR NOW...": "ZATÍM...",
             "Gold Medal": "Zlatá Medaile",
             "ITEMS": "VĚCI",
+            "MODIFIERS": "MODIFIKÁTORY",
             "Main Menu": "Hlavní Menu",
             "Modify": "Modifikovat",
             "Platinum Medal": "Platinová Medaile",
             "Return to Main Menu": "Vrátit se do Hlavního Menu",
+            "SPEED: {#0}": "RYCHLOST: {#0}",
+            "SPEED: {#0}{1}m/s": "RYCHLOST: {#0}{1}m/s",
             "SampleR:14ScreenO": {
                 "request0:START RUN": "ZAČÍT RUN",
                 "request10:DISPLAY": "DISPLEJ",
@@ -78,17 +83,27 @@
             "Average Speed: {0} m/s": "Průměrná Rychlost: {0} m/s",
             "Deaths: {0}": "Smrtí: {0}",
             "SCORE: {0}": "SKÓRE: {0}",
+            "Total Items Used: {0}": "Celkově Použito Věcí: {0}",
             "Wins: {0}": "Výher: {0}",
             "[REDACTED]": "[CENZUROVÁNO]"
         },
         "Unlocks": {
             "Items": {
                 "Items ({0}/{1})": "Věci ({0}/{1})"
+            },
+            "Regions": {
+                "Regions ({0}/{1})": "Regiony ({0}/{1})"
             }
         }
     },
     "LeaderBoard": {
-        "LOADING...": "NAČÍTÁNÍ..."
+        "LOADING...": "NAČÍTÁNÍ...",
+        "SampleR:4Leaderboard": {
+            "request0:Score: {0}": "Skóre: {0}",
+            "request1:Distance: {0}m": "Vzdálenost: {0}m",
+            "request2:Speed: {0}m/s": "Rychlost: {0}m/s",
+            "request3:Date: {0}.{1} {2}:{3}:{4}": "Datum: {0}.{1} {2}:{3}:{4}"
+        }
     },
     "Main-Menu": {
         "?": {
@@ -216,8 +231,11 @@
         "You have insufficient funds to purchase this.": "Nemáš dostatek peněz aby jsi si tohle koupil."
     },
     "StartGame": {
+        "<color=\"red\">Too Expensive!": "<color=\"red\">Moc Drahé!",
         "Competitive": "Kompetetivní",
         "Good Luck": "Hodně Štěstí",
+        "LOCKER {0}": "SKŘÍŇ {0}",
+        "SCORE MULTIPLIER:": "MULTIPLIKÁTOR SKÓRE:",
         "Start Run": "Začít Run",
         "{0}X": "{0}X"
     }
