@@ -166,7 +166,8 @@
     "LOGBOOK": {
         "Unlocks": {
             "Challenges": {
-                "<size={0}>REDACTED</size>\n<color=grey>LOOP ENDLESS SUBSTRUCTURE</color>": "<size={0}>CENZÚRA</size>\n<color=grey>TEGYÉL EGY KÖRT VÉGTELEN ALÉPÍTMÉNYBEN</color>"
+                "<size={0}>REDACTED</size>\n<color=grey>LOOP ENDLESS SUBSTRUCTURE</color>": "<size={0}>CENZÚRA</size>\n<color=grey>TEGYÉL EGY KÖRT VÉGTELEN ALÉPÍTMÉNYBEN</color>",
+                "<size={0}>ROACH RUN</size>\n<color=grey>Unlocked</color>": "<size={0}>CSÓTÁNYFUTAM</size>\n<color=grey>Feloldva</color>"
             },
             "Gamemodes": {
                 "<size={0}>REDACTED</size>\n<color=grey>CLIMB {1} METERS IN ENDLESS</color>": "<size={0}>CENZÚRA</size>\n<color=grey>MÁSSZ {1} MÉTERT VÉGTELENBEN</color>"
@@ -289,8 +290,14 @@
             "header:Locked Binding:": "Lezárt Megkötés:"
         },
         "sampleR:Achiv": {
+            "request0:Dont Forget Me": "Ne Felejts El",
+            "request0:Escape is no longer an option.": "A Menekülés már nem opció.",
+            "request0:Reject Mortality": "Utasítsd El a Halandóságot",
+            "request0:The Ladder": "A Létra",
             "request1:Loop Back to Silos in Endless Substructure": "Tegyél egy Kört vissza a Silókba Végtelen Alépítményben",
-            "request1:Loop back to Silos in endless underworks": "Tegyél egy Kört vissza a Silókba Végtelen Alaprendszerekben"
+            "request1:Loop back to Silos in endless underworks": "Tegyél egy Kört vissza a Silókba Végtelen Alaprendszerekben",
+            "request1:New Bindings Unlocked": "Új Megkötések Feloldva",
+            "request1:Roach Run Unlocked": "Csótányfutam Feloldva"
         }
     },
     "Play": {
@@ -313,6 +320,8 @@
             "FRACTURED TERRITORY": "TÖRÖTT TERÜLET",
             "Loop in Endless Substructure": "Tegyél egy kört Végtelen Alépítményben",
             "ROACH RUN": "CSÓTÁNYFUTAM",
+            "Roach Run": "Csótányfutam",
+            "Roach<br>Run": "Csótányfutam",
             "SHUTTERED RIFT": "VETÍTETT RÉS",
             "Shuttered<br>Rift": "Vetített<br>Rés"
         },
