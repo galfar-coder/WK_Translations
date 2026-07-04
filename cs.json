@@ -2,6 +2,7 @@
     "Game": {
         "BANK: {0}": "BANKA: {0}",
         "Bug Reporting": "Nahlašování Chyb",
+        "CLIMBED {0} METERS": "VYŠPLHÁNO {0} METRŮ",
         "Cost:{0} Bank:{1}": "Cena:{0} Banka:{1}",
         "Dead": {
             "<color=grey>SCORE: {0}": "<color=grey>SKÓRE: {0}",
