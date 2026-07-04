@@ -7,6 +7,7 @@
         "Dead": {
             "<color=grey>SCORE: {0}": "<color=grey>SKÓRE: {0}",
             "Best -": "Nejlepší -",
+            "Best Score: {0}": "Nejlepší Skóre: {0}",
             "Bronze Medal": "Bronzová Medaile",
             "Coming Soon: THE CORE": "Již Brzy: THE CORE",
             "Coming Soon: THE NEST": "Již Brzy: THE NEST",
@@ -26,7 +27,9 @@
                 "request12:RESULT.": "VÝSLEDEK.",
                 "request13:STOP RUN.": "UKONČIT RUN.",
                 "request1:IDENTIFICATION DIVISION.": "IDENTIFIKAČNÍ DIVIZE.",
-                "request4:DATA DIVISION.": "DATOVÁ DIVIZE."
+                "request3:ADD-NUMBERS.": "PŘIDAT-ČÍSLA.",
+                "request4:DATA DIVISION.": "DATOVÁ DIVIZE.",
+                "request7:CALCULATE:": "VYPOČÍTAT:"
             },
             "Shiloh #{0}": "Shiloh #{0}",
             "Silver Medal": "Stříbrná Mediale",
