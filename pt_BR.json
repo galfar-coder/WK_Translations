@@ -1,1 +1,102 @@
-{}
+{
+    "Main-Menu": {
+        "<color=red>You are playing on a game save from an old version</color>\n\nWe recommend erasing your save to ensure that you are experiencing the new progression as it is meant to be experienced. Additionally, some save information may not transfer correctly.\n\nDon't worry, we'll make a backup of your old data!": "<color=red>Você está jogando em um save de uma versão antiga</color>\n\nRecomendamos apagar seus dados salvos para que você possa aproveitar a nova progressão da forma como ela foi planejada. Além disso, algumas informações dos seus dados salvos podem não ser transferidas corretamente.\n\nNão se preocupe, faremos um backup dos seus dados antigos!",
+        "?": {
+            "Licensing ({0}/{1})": "Licenciamento ({0}/{1})",
+            "Publishing ({0}/{1})": "Publicação ({0}/{1})",
+            "Support ({0}/{1})": "Apoio ({0}/{1})",
+            "White Knuckle ({0}/{1})": "White Knuckle ({0}/{1})",
+            "sample:SupportC1": {
+                "Early Supporters": "Primeiros Apoiadores"
+            },
+            "sampleR:2PublishingC4": {
+                "request0:Community": "Comunidade",
+                "request1:Discord moderators": "Moderadores do Discord"
+            },
+            "sampleR:2PublishingC5": {
+                "request1:Discord Leaderboards": "Ranking do Discord"
+            },
+            "sampleR:3PublishingC2": {
+                "request0:QA": "Controle de Qualidade (QA)",
+                "request1:Marketing Manager": "Gerente de Marketing",
+                "request2:Events and Sales Coordinator": "Coordenador de Eventos e Vendas"
+            },
+            "sampleR:3PublishingC3": {
+                "request0:Additional Community Management": "Gerenciamento Adicional da Comunidade",
+                "request1:Volunteer Moderators": "Moderadores Voluntários",
+                "request2:Evolve PR": "Evolve PR"
+            },
+            "sampleR:4White KnuckleС2": {
+                "request0:Concept Art": "Arte Conceitual",
+                "request1:UI": "Interface do Usuário",
+                "request2:In-game Illustration": "Ilustrações do Jogo",
+                "request3:Marketing & Trailers": "Marketing & Trailers"
+            },
+            "sampleR:4White KnuckleС3": {
+                "request0:Voice Acting": "Dublagem",
+                "request1:Writing": "Roteiro",
+                "request2:Hand Artists": "Artistas das Mãos",
+                "request3:With Help From": "Com Ajuda De"
+            },
+            "sampleR:5White KnuckleС1": {
+                "request0:Dark Machine Games": "Dark Machine Games",
+                "request1:Programming": "Programação",
+                "request2:Sound and Music": "Áudio e Música",
+                "request3:Game Design": "Game Design",
+                "request4:Art and Animation": "Arte e Animação"
+            },
+            "sampleR:6SupportC4": {
+                "request0:Special Thanks": "Agradecimentos Especiais",
+                "request1:Friends & Family": "Amigos e Família",
+                "request2:For putting up with us": "Por nos aturar",
+                "request3:From all of us at Dark Machine": "De todos nós da Dark Machine",
+                "request4:Thank you for being such amazing members of the community.": "Agradecemos por serem membros tão incríveis da comunidade.",
+                "request5:And for all the support and feedback you've provided.": "E por todo o apoio e feedback que vocês nos deram."
+            },
+            "sampleR:7PublishingC1": {
+                "request0:DreadXP": "DreadXP",
+                "request1:Executive Producer": "Produtor Executivo",
+                "request2:Director": "Diretor",
+                "request3:Head of Production and Operations": "Chefe de Produção e Operações",
+                "request4:Producer - Project Manager": "Produtor – Gerente de Projeto",
+                "request5:Producer - Release Manager": "Produtor – Gerente de Lançamento",
+                "request6:Producer - QA Manager": "Produtor – Gerente de Controle de Qualidade (QA)"
+            },
+            "sampleR:Licensing": {
+                "request0:Fonts": "Fontes",
+                "request1:A font by Daniel Linssen (Thank you": "Uma fonte por Daniel Linssen (Obrigado"
+            }
+        },
+        "COSMETICS": "COSMÉTICOS",
+        "LOADING": "CARREGANDO",
+        "Loading: {0}%": "Carregando: {0}%",
+        "Old": {
+            "CREDITS": "CRÉDITOS",
+            "SKIP\n(NOT RECOMMENDED)": "PULAR\n(NÃO RECOMENDADO)",
+            "Score Bonuses": "Bônus de Pontuação",
+            "WARNING!": "ATENÇÃO!"
+        },
+        "PLAY": "JOGAR",
+        "QUIT": "SAIR",
+        "SETTINGS": "CONFIGURAÇÕES",
+        "SampleR:2Version": {
+            "request0:[white knuckle-": "[white knuckle-",
+            "request1:[early-access]": "[acesso-antecipado]"
+        }
+    },
+    "Play": {
+        "Biomod Oversupply": "Excesso de Biomodificações",
+        "CLOSE": "FECHAR",
+        "Facility": "Instalação",
+        "New Maintenance Worker Gloves (Cosmetic)": "Luvas de Operário de Manutenção Novas (Cosmético)",
+        "Ornamental Hammer (Auction)": "Martelo Ornamental (Leilão)",
+        "Requires Starter Loan ({0})": "Requer Empréstimo Inicial ({0})",
+        "Starter Loan ({0})": "Empréstimo Inicial ({0})",
+        "Used Maintenance Worker Gloves (Cosmetic)": "Luvas de Operário de Manutenção Usadas (Cosmético)",
+        "Work Gloves (New)": "Luvas de Trabalho (Novas)",
+        "Work Gloves (Used)": "Luvas de Trabalho (Usadas)"
+    },
+    "StartGame": {
+        "Trinkets": "Berloques"
+    }
+}
