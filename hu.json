@@ -1,4 +1,11 @@
 {
+    "Cosmetics": {
+        "Hands": {
+            "How Get": {
+                "Climb {0} meters in any Endless mode.": "Mássz {0} métert bármelyik Végtelen módban."
+            }
+        }
+    },
     "Game": {
         "ARE YOU SURE? <color=orange> YOU CAN CONTINUE A SAVED RUN LATER": "BIZTOS? <color=orange> EGY MENTETT KÖRT FOLYTATHATSZ KÉSŐBB",
         "ARE YOU SURE? <color=red> YOU WILL LOSE A STORED LIFE AND ANY PROGRESS SINCE LAST BACKUP": "BIZTOS? <color=red> ELVESZÍTESZ EGY TÁROLT ÉLETET ÉS BÁRMILYEN HALADÁST A LEGUTÓBBI MENTÉS ÓTA",
@@ -160,12 +167,18 @@
         "Unlocks": {
             "Challenges": {
                 "<size={0}>REDACTED</size>\n<color=grey>LOOP ENDLESS SUBSTRUCTURE</color>": "<size={0}>CENZÚRA</size>\n<color=grey>TEGYÉL EGY KÖRT VÉGTELEN ALÉPÍTMÉNYBEN</color>"
+            },
+            "Gamemodes": {
+                "<size={0}>REDACTED</size>\n<color=grey>CLIMB {1} METERS IN ENDLESS</color>": "<size={0}>CENZÚRA</size>\n<color=grey>MÁSSZ {1} MÉTERT VÉGTELENBEN</color>"
             }
         }
     },
     "LeaderBoard": {
         "LOADING...": "BETÖLTÉS...",
         "No Score Data Found.": "Nem Található Pontszám Adat."
+    },
+    "MSGETheHeast": {
+        "Little cousin.. Endless thanks..": "Kis unoka.. Végtelen köszönet.."
     },
     "Main-Menu": {
         "<color=red>You are playing on a game save from an old version</color>\n\nWe recommend erasing your save to ensure that you are experiencing the new progression as it is meant to be experienced. Additionally, some save information may not transfer correctly.\n\nDon't worry, we'll make a backup of your old data!": "<color=red>Egy régi verzióról játszol.</color>\n\nAzt ajánljuk hogy töröld a mentésed hogy az új haladást megfelelően éld át. Előfordulhat hogy a mentés egy része nem kerül át tökéletesen.\n\nNe félj, készül biztonsági mentés az adatodról!",
@@ -259,6 +272,26 @@
             "request1:[early-access]": "[korai-hozzáférés]"
         },
         "Update Info": "Infó a Frissítésről"
+    },
+    "Perk": {
+        "sample:Names": {
+            "Peripheral Binding": "Perifériai Kötés"
+        },
+        "sampleG:BindingsLoc": {
+            "Half Inventory": "Felezett Eszköztár",
+            "High Gravity": "Magas Gravitáció",
+            "No Shops": "Munkaszüneti Nap",
+            "Pitons And Beans": "Pitonok és Babkonzervek",
+            "Survival Mode": "Túlélő Mód",
+            "Unlock Requirement: Reach Habitation Yellow": "Feloldáshoz Szükséges: Érd el a Sárga Lakhatást",
+            "Unlock Requirement: Reach the Abyss": "Feloldáshoz Szükséges: Érd el a Mélyszurdokot",
+            "Unlock Requirement: Reach the Nest": "Feloldáshoz Szükséges: Érd el a Fészket",
+            "header:Locked Binding:": "Lezárt Megkötés:"
+        },
+        "sampleR:Achiv": {
+            "request1:Loop Back to Silos in Endless Substructure": "Tegyél egy Kört vissza a Silókba Végtelen Alépítményben",
+            "request1:Loop back to Silos in endless underworks": "Tegyél egy Kört vissza a Silókba Végtelen Alaprendszerekben"
+        }
     },
     "Play": {
         "Biomod Oversupply": "Biomod Túltöltés",
@@ -401,7 +434,24 @@
         "Work Gloves (Used)": "Munkáskesztyűk (Használt)",
         "You have insufficient funds to purchase this.": "Nincs elegendő kredited a vásárlásra."
     },
+    "Settings": {
+        "Controls": {
+            "Reset Bindings": "Megkötések Visszaállítása"
+        }
+    },
     "StartGame": {
-        "CLIMB {0} METERS IN ENDLESS": "MÁSSZ {0} MÉTERT VÉGTELEN MÓDBAN"
+        "Bindings": "Megkötések",
+        "CLIMB {0} METERS IN ENDLESS": "MÁSSZ {0} MÉTERT VÉGTELEN MÓDBAN",
+        "TRINKETS & BINDINGS": "KACATOK ÉS MEGKÖTÉSEK"
+    },
+    "announcements": {
+        "Caution: Down is bad.": "Vigyázat: Lefele rossz.",
+        "Emergencyyy: Ladder.": "Vééééészhelyzet: Létra.",
+        "Hello Superstructure Worker, and welcome to the Training Sector, located in Substructure 05. Please enjoy your time here knowing that your skills are valuable to the Superstructure Research Authority.": "Helló Felépítményi Dolgozó, és üdvözlégy az Edzőszektorban, ami a 05-ös Alépítményben található. Élvezd az itt töltött idődet annak a tudatában hogy a képességeid fontosak a Felépítményi Kutatóhivatalnak.",
+        "Notice: i am waiting": "Jegyzet: várok",
+        "Reminder: Be careful when climbing through the Superstructure. Every remaining human life is endlessly valuable, and your collective effort will ensure that we have the tools for humanity's survival.": "Emlékeztető: Legyél óvatos a Felépítményen való mászással. Minden megmaradt emberi élet végtelenül drága, és a közös erőfeszítés biztosítja hogy meglegyenek az eszközök az emberiség túléléséhez.",
+        "Reminder: Due to events on the surface, employees have reported feelings of depression and despondency. Do not let it effect your work.": "Emlékeztető: A felszíni történtek miatt az alkalmazottak egy része depressziót és reménytelenséget jelentett be. Ne hagyd hogy ez a munkádra kihasson.",
+        "Safety Tip: If you see something dangerous, don't.": "Biztonsági Tipp: Ha látsz valami veszélyeset, ne tedd.",
+        "Warning: left hand. Right hand. Left hand. Right hand. Left hand. Right hand. Left hand.": "Vigyázat: bal kéz. Jobb kéz. Bal kéz. Jobb kéz. Bal kéz. Jobb kéz. Bal kéz."
     }
 }
