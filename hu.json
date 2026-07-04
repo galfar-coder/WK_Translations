@@ -91,10 +91,16 @@
         }
     },
     "Play": {
+        "Biomod Oversupply": "Biomod Túltöltés",
+        "Buddy Trinket": "Pajtás",
         "CLOSE": "BEZÁR",
+        "DP-{0} Hatch Access": "DP-{0} Nyílás Hozzáférés",
         "Facility": "Létesítmény",
+        "Facility Credits.": "Létesítmény Kreditek.",
+        "NOT ENOUGH CREDITS": "NINCS ELÉG KREDIT",
         "New Maintenance Worker Gloves (Cosmetic)": "Új Karbantartó Munkáskesztyűk (Kozmetikum)",
         "Ornamental Hammer (Auction)": "Díszes Kalapács (Aukció)",
+        "Pouch Trinket": "Tasak",
         "Requires Starter Loan ({0})": "Szükséges Kezdő Hitel ({0})",
         "Starter Loan ({0})": "Kezdő Hitel ({0})",
         "Used Maintenance Worker Gloves (Cosmetic)": "Használt Karbantartó Munkáskesztyűk (Kozmetikum)",
