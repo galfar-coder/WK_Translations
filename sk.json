@@ -1,7 +1,33 @@
 {
+    "Game": {
+        "ARE YOU SURE? <color=orange> YOU CAN CONTINUE A SAVED RUN LATER": "STE SI ISTÝ? <color=orange> MÔŽETE POKRAČOVAŤ V ULOŽENEJ HRE NESKÔR",
+        "ARE YOU SURE? <color=red> YOU WILL LOSE A STORED LIFE AND ANY PROGRESS SINCE LAST BACKUP": "STE SI ISTÝ? <color=red> STRATÍTE ULOŽENÝ ŽIVOT A AKÝKOĽVEK POKROK OD POSLEDNEJ ZÁLOHY",
+        "ARE YOU SURE? <color=red>YOUR RUN WILL END.": "STE SI ISTÝ? <color=red>VAŠA HRA SA SKONČÍ.",
+        "BEST STATS": "NAJLEPŠIE ŠTATISTIKY",
+        "Best Time: H:{0} M:{1} S:{2}": "Najlepší čas: H:{0} M:{1} S:{2}",
+        "Best Time: M:{0} S:{1}": "Najlepší čas: M:{0} S:{1}",
+        "Best Time: N/A": "Najlepší čas: N/A",
+        "Best Time: S:{0}": "Najlepší čas: S:{0}",
+        "Best Time: {0}": "Najlepší čas: {0}",
+        "Best Time: {0}:{1}": "Najlepší čas: {0}:{1}",
+        "Best Time: {0}:{1}:{2}": "Najlepší čas: {0}:{1}:{2}",
+        "Best Time: {0}:{1}:{2}:{3}": "Najlepší čas: {0}:{1}:{2}:{3}",
+        "END RUN": "UKONČIŤ",
+        "End Run": "Ukončiť",
+        "Leaderboard - Friends": "Rebríček - Kamaráti",
+        "Leaderboard - Global": "Rebríček - Globálne",
+        "Leaderboard - Top": "Rebríček - Top",
+        "Medals:": "Medaile:",
+        "PAUSED": "PAUZA",
+        "RESTART": "REŠTARTOVAŤ",
+        "RESUME": "POKRAČOVAŤ",
+        "Score": "Skóre",
+        "Time": "Čas"
+    },
     "Main-Menu": {
         "<color=red>You are playing on a game save from an old version</color>\n\nWe recommend erasing your save to ensure that you are experiencing the new progression as it is meant to be experienced. Additionally, some save information may not transfer correctly.\n\nDon't worry, we'll make a backup of your old data!": "<color=red>Hráte uloženú hru zo starej verzie</color>\n\nOdporúčame vymazať uloženú hru, aby ste si zaistili, že nový postup prežívate tak, ako má byť. Okrem toho sa niektoré informácie z uložených hier nemusia preniesť správne.\n\nNebojte sa, vytvoríme zálohu vašich starých údajov!",
         "?": {
+            "Publishing ({0}/{1})": "Vydavateľstvo ({0}/{1})",
             "Support ({0}/{1})": "Podpora ({0}/{1})",
             "sampleR:2PublishingC4": {
                 "request0:Community": "Komunita",
@@ -56,7 +82,29 @@
         "SETTINGS": "NASTAVENIA",
         "Update Info": "Info o aktualizácií"
     },
+    "Perk": {
+        "sampleG:Trinkets": {
+            "Mass": "Masa"
+        }
+    },
     "Play": {
-        "CLOSE": "ZAVRIEŤ"
+        "CLOSE": "ZAVRIEŤ",
+        "ENDLESS": {
+            "ENDLESS": "NEKONEČNÉ",
+            "Endless Silos": "Nekonečné Silá",
+            "Endless Substructure": "Nekonečná Subštruktúra",
+            "Endless Superstructure": "Nekonečná Superštruktúra"
+        },
+        "Event": {
+            "Climb {0} Meters": "Vylez {0} metrov",
+            "Parasite": "Parazit"
+        },
+        "MAIN": {
+            "CAMPAIGN": "KAMPAŇ",
+            "Campaign": "Kampaň",
+            "MAIN": "HLAVNÉ",
+            "TRAINING": "TRÉNING",
+            "Training Sector": "Tréningový Sektor"
+        }
     }
 }
