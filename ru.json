@@ -939,9 +939,9 @@
         "ENTER CAMPAIGN SEED": "",
         "ENTER SEED": "",
         "Generate With Seed": "",
-        "LOADING": "",
+        "LOADING": "ЗАГРУЗКА",
         "LOGBOOK": "ДНЕВНИК",
-        "Loading: {0}%": "",
+        "Loading: {0}%": "Загрузка: {0}%",
         "Old": {
             "BACKUP AND ERASE": "",
             "CREDITS": "",
