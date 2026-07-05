@@ -1,1 +1,62 @@
-{}
+{
+    "Main-Menu": {
+        "<color=red>You are playing on a game save from an old version</color>\n\nWe recommend erasing your save to ensure that you are experiencing the new progression as it is meant to be experienced. Additionally, some save information may not transfer correctly.\n\nDon't worry, we'll make a backup of your old data!": "<color=red>Hráte uloženú hru zo starej verzie</color>\n\nOdporúčame vymazať uloženú hru, aby ste si zaistili, že nový postup prežívate tak, ako má byť. Okrem toho sa niektoré informácie z uložených hier nemusia preniesť správne.\n\nNebojte sa, vytvoríme zálohu vašich starých údajov!",
+        "?": {
+            "Support ({0}/{1})": "Podpora ({0}/{1})",
+            "sampleR:2PublishingC4": {
+                "request0:Community": "Komunita",
+                "request1:Discord moderators": "Moderátori Discordu"
+            },
+            "sampleR:3PublishingC2": {
+                "request0:QA": "Zabezpečenie kvality",
+                "request1:Marketing Manager": "Marketingový manažér",
+                "request2:Events and Sales Coordinator": "Koordinátor podujatí a predaja"
+            },
+            "sampleR:3PublishingC3": {
+                "request0:Additional Community Management": "Dodatočná správa komunity",
+                "request1:Volunteer Moderators": "Dobrovoľní moderátori"
+            },
+            "sampleR:4White KnuckleС2": {
+                "request2:In-game Illustration": "Ilustrácie v hre",
+                "request3:Marketing & Trailers": "Marketing a Upútavky"
+            },
+            "sampleR:4White KnuckleС3": {
+                "request0:Voice Acting": "Dabing",
+                "request3:With Help From": "S pomocou od"
+            },
+            "sampleR:5White KnuckleС1": {
+                "request1:Programming": "Programovanie",
+                "request2:Sound and Music": "Zvuk a Hudba",
+                "request3:Game Design": "Herný Dizajn",
+                "request4:Art and Animation": "Umenie a Animácia"
+            },
+            "sampleR:7PublishingC1": {
+                "request0:DreadXP": "",
+                "request1:Executive Producer": "Výkonný producent",
+                "request2:Director": "Riaditeľ",
+                "request3:Head of Production and Operations": "Vedúci výroby a prevádzky",
+                "request4:Producer - Project Manager": "Producent - Projektový manažér",
+                "request5:Producer - Release Manager": "Producent - Manažér vydania",
+                "request6:Producer - QA Manager": "Výrobca - Manažér zabezpečenia kvality"
+            }
+        },
+        "COSMETICS": "KOZMETIKA",
+        "LOADING": "NAČÍTAVANIE",
+        "LOGBOOK": "DENNÍK",
+        "Loading: {0}%": "Načítavanie: {0}%",
+        "Old": {
+            "BACKUP AND ERASE": "ZÁLOHOVAŤ A VYMAZAŤ",
+            "CREDITS": "ZÁSLUHY",
+            "SKIP\n(NOT RECOMMENDED)": "PRESKOČIŤ\n(NEDOPORUČENÉ)",
+            "WARNING!": "VAROVANIE!"
+        },
+        "Open Changelog": "Otvoriť Zoznam Zmien",
+        "PLAY": "HRAŤ",
+        "QUIT": "UKONČIŤ",
+        "SETTINGS": "NASTAVENIA",
+        "Update Info": "Info o aktualizácií"
+    },
+    "Play": {
+        "CLOSE": "ZAVRIEŤ"
+    }
+}
