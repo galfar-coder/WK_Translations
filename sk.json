@@ -1,4 +1,10 @@
 {
+    "Console": {
+        "Buy": "Kúpiť",
+        "ERROR": "CHYBA",
+        "Open": "Otvoriť",
+        "PURCHASED": "KÚPENÉ"
+    },
     "Game": {
         "ARE YOU SURE? <color=orange> YOU CAN CONTINUE A SAVED RUN LATER": "STE SI ISTÝ? <color=orange> MÔŽETE POKRAČOVAŤ V ULOŽENEJ HRE NESKÔR",
         "ARE YOU SURE? <color=red> YOU WILL LOSE A STORED LIFE AND ANY PROGRESS SINCE LAST BACKUP": "STE SI ISTÝ? <color=red> STRATÍTE ULOŽENÝ ŽIVOT A AKÝKOĽVEK POKROK OD POSLEDNEJ ZÁLOHY",
@@ -12,6 +18,11 @@
         "Best Time: {0}:{1}": "Najlepší čas: {0}:{1}",
         "Best Time: {0}:{1}:{2}": "Najlepší čas: {0}:{1}:{2}",
         "Best Time: {0}:{1}:{2}:{3}": "Najlepší čas: {0}:{1}:{2}:{3}",
+        "Dead": {
+            "sampleR:3VarT": {
+                "request2:CAMPAIGN": "Kampaň"
+            }
+        },
         "END RUN": "UKONČIŤ",
         "End Run": "Ukončiť",
         "Leaderboard - Friends": "Rebríček - Kamaráti",
@@ -29,6 +40,7 @@
         "?": {
             "Publishing ({0}/{1})": "Vydavateľstvo ({0}/{1})",
             "Support ({0}/{1})": "Podpora ({0}/{1})",
+            "White Knuckle ({0}/{1})": "White Knuckle ({0}/{1})",
             "sampleR:2PublishingC4": {
                 "request0:Community": "Komunita",
                 "request1:Discord moderators": "Moderátori Discordu"
