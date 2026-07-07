@@ -867,7 +867,7 @@
         "zrieod": ""
     },
     "Main-Menu": {
-        "<color=red>You are playing on a game save from an old version</color>\n\nWe recommend erasing your save to ensure that you are experiencing the new progression as it is meant to be experienced. Additionally, some save information may not transfer correctly.\n\nDon't worry, we'll make a backup of your old data!": "",
+        "<color=red>You are playing on a game save from an old version</color>\n\nWe recommend erasing your save to ensure that you are experiencing the new progression as it is meant to be experienced. Additionally, some save information may not transfer correctly.\n\nDon't worry, we'll make a backup of your old data!": "<colour=red>Hrajete na save ze staré verze hry</color>\n\nDoporučujeme si vymazat svůj save aby jste mohli pokračovat ve hře bez problémů. Navíc, existuje šance, že některá data nebudou správně převedena.\n\nNeobávejte se, uložíme vaše stará data!",
         "?": {
             "Licensing ({0}/{1})": "Licencování ({0}/{1})",
             "Publishing ({0}/{1})": "Vydavatelství ({0}/{1})",
@@ -887,10 +887,10 @@
             "sampleR:3PublishingC2": {
                 "request0:QA": "QA",
                 "request1:Marketing Manager": "Marketingový Manažer",
-                "request2:Events and Sales Coordinator": ""
+                "request2:Events and Sales Coordinator": "Koordinátor akcí a prodeje"
             },
             "sampleR:3PublishingC3": {
-                "request0:Additional Community Management": "",
+                "request0:Additional Community Management": "Další správa komunity",
                 "request1:Volunteer Moderators": "Dobrovolní Moderátoři",
                 "request2:Evolve PR": ""
             },
@@ -902,8 +902,8 @@
             },
             "sampleR:4White KnuckleС3": {
                 "request0:Voice Acting": "Dabing",
-                "request1:Writing": "",
-                "request2:Hand Artists": "",
+                "request1:Writing": "Scénář",
+                "request2:Hand Artists": "Ilustrace Rukou",
                 "request3:With Help From": "S pomocí od"
             },
             "sampleR:5White KnuckleС1": {
@@ -916,7 +916,7 @@
             "sampleR:6SupportC4": {
                 "request0:Special Thanks": "Speciální Poděkování",
                 "request1:Friends & Family": "Přátelé a Rodina",
-                "request2:For putting up with us": "",
+                "request2:For putting up with us": "Za to, že s námi vydrželi",
                 "request3:From all of us at Dark Machine": "Od nás všech z Dark Machine",
                 "request4:Thank you for being such amazing members of the community.": "",
                 "request5:And for all the support and feedback you've provided.": ""
@@ -925,10 +925,10 @@
                 "request0:DreadXP": "DreadXP",
                 "request1:Executive Producer": "Výkonný producent",
                 "request2:Director": "Režisér",
-                "request3:Head of Production and Operations": "",
+                "request3:Head of Production and Operations": "Vedoucí Produkce a Provozu",
                 "request4:Producer - Project Manager": "Producer - Projektový manažer",
-                "request5:Producer - Release Manager": "",
-                "request6:Producer - QA Manager": ""
+                "request5:Producer - Release Manager": "Producent - Manažer Vydání",
+                "request6:Producer - QA Manager": "Producent - QA Manažer"
             },
             "sampleR:Licensing": {
                 "request0:Fonts": "Fonty",
@@ -936,15 +936,15 @@
             }
         },
         "COSMETICS": "KOSMETIKY",
-        "ENTER CAMPAIGN SEED": "",
-        "ENTER SEED": "",
-        "Generate With Seed": "",
+        "ENTER CAMPAIGN SEED": "Vložte seed kampaně",
+        "ENTER SEED": "ZADEJTE SEED",
+        "Generate With Seed": "Vygenerovat se Seed",
         "LOADING": "NAČÍTÁNÍ",
-        "LOGBOOK": "",
+        "LOGBOOK": "DENÍK",
         "Loading: {0}%": "Načítání: {0}%",
         "Old": {
             "BACKUP AND ERASE": "ZÁLOHUJ A SMAŽ",
-            "CREDITS": "",
+            "CREDITS": "TITULKY",
             "SKIP\n(NOT RECOMMENDED)": "PŘESKOČIT\n(NENÍ DOPORUČENO)",
             "Score Bonuses": "Bonusy Skóre",
             "WARNING!": "VAROVÁNÍ!"
@@ -1632,8 +1632,8 @@
             "Tutorial": ""
         },
         "NOT ENOUGH CREDITS": "NEDOSTATEK KREDITŮ",
-        "New Maintenance Worker Gloves (Cosmetic)": "",
-        "Ornamental Hammer (Auction)": "",
+        "New Maintenance Worker Gloves (Cosmetic)": "Nové pracovní rukavice (Vzhled)",
+        "Ornamental Hammer (Auction)": "Ozdobné kladivo (Aukce)",
         "Other": {
             "Abyss<br>Playtest": "Abyss<br>Playtest",
             "BETA": "BETA",
@@ -1658,9 +1658,9 @@
             "Testing Area": "Testovací Místo"
         },
         "Pouch Trinket": "",
-        "Requires Starter Loan ({0})": "",
-        "Starter Loan ({0})": "",
-        "Used Maintenance Worker Gloves (Cosmetic)": "",
+        "Requires Starter Loan ({0})": "Vyžaduje Startovní půjčku ({0})",
+        "Starter Loan ({0})": "Startovní Půjčka ({0})",
+        "Used Maintenance Worker Gloves (Cosmetic)": "Použité pravovní rukavice (Vzhled)",
         "Work Gloves (New)": "Pracovní Rukavice (Nové)",
         "Work Gloves (Used)": "Pracovní Rukavice (Použité)",
         "You have insufficient funds to purchase this.": "Nemáš dostatek peněz aby jsi si tohle koupil."
