@@ -1573,7 +1573,7 @@
             "Endless Underworks": "SONSUZ YERALTI",
             "REACH PIPEWORKS": "BORU HATLARINA ULAŞ",
             "Reach Habitation": "HABİTASYONA ULAŞ",
-            "Reach Pipeworks": "BORU HATLARINA ULAŞ",
+            "Reach Pipeworks": "Boru Hatlarına Ulaş",
             "Reach The Nest": "YUVAYA ULAŞ",
             "Reach the Abyss": "HİÇLİĞE ULAŞ"
         },
@@ -1627,7 +1627,7 @@
         "MAIN": {
             "<color=#c0c0c0ff>Learn the basics of how to play White Knuckle.</color>\n- <color=yellow>Basic Climbing</color>\n- <color=yellow>Momentum and Stamina</color>\n- <color=yellow>Core Item Usage</color>": "<color=#c0c0c0ff>White Knuckle'ın temellerini öğrenin.</color>\n- <color=yellow>Temel Tırmanma</color>\n- <color=yellow>Hareket ve Enerji</color>\n- <color=yellow>Temel Eşya Kullanımı</color>",
             "CAMPAIGN": "HİKAYE",
-            "Campaign": "HİKAYE",
+            "Campaign": "Hikaye",
             "Finish the Tutorial": "Eğitimi Tamamla",
             "MAIN": "ANA OYUN",
             "Practice your technique in a safe environment.\n<color=yellow>- Race Mode\n<color=yellow>- Customizeable Difficulty\n<color=yellow>- Endless Climbing\n<color=red>Note: Some Achievements are blocked in this mode.</color>": "Kendinizi güvenli bir ortamda geliştirin.\n<color=yellow>- Yarış Modu\n<color=yellow>- Ayarlanabilir Zorluk\n<color=yellow>- Sonsuz Tırmanma\n<color=red>Not: Bazı başarımlar bu mod da alınamaz.</color>",
