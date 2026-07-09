@@ -406,7 +406,7 @@
             "Death Height: {0} Meters": "Ölüm Yüksekliği: {0} Metre",
             "Distance Climbed:{0} Meters": "Tırmanılan Yükseklik:{0} Metre",
             "Distance: {0} Meters": "Mesafe: {0} Metre",
-            "FAILURE": "",
+            "FAILURE": "BAŞARISIZLIK",
             "FINAL: {0}": "FİNAL: {0}",
             "FOR NOW...": "ŞİMDİLİK...",
             "GAMEMODE": "OYUNMODU",
@@ -438,10 +438,10 @@
             "SPEED: {#0}{1}m/s": "SÜRAT: {#0}{1}m/s",
             "SampleR:14ScreenO": {
                 "request0:START RUN": "SEANSI BAŞLAT",
-                "request10:DISPLAY": "",
-                "request11:The total is:": "",
-                "request12:RESULT.": "",
-                "request13:STOP RUN.": "",
+                "request10:DISPLAY": "GÖRÜNTÜ",
+                "request11:The total is:": "Toplam:",
+                "request12:RESULT.": "SONUÇ.",
+                "request13:STOP RUN.": "SEANSI DURDUR.",
                 "request1:IDENTIFICATION DIVISION.": "TANIMLAMA BÖLÜMÜ.",
                 "request2:PROGRAM-ID.": "PROGRAM-KİMLİĞİ.",
                 "request3:ADD-NUMBERS.": "NUMARA-EKLE.",
@@ -450,7 +450,7 @@
                 "request6:PROCEDURE DIVISION.": "PROSEDÜR BÖLÜMÜ.",
                 "request7:CALCULATE:": "HESAPLA:",
                 "request8:user-score": "kullanıcı-skoru",
-                "request9:ACCEPT NUM{0}.": ""
+                "request9:ACCEPT NUM{0}.": "KABULLENEN NUM{0}."
             },
             "Secrets Found <color=grey>({0})": "Bulunan Gizemler <color=grey>({0})",
             "Session": "Oturum",
@@ -465,7 +465,7 @@
             "Try These Modes": "Bu Modları Deneyin",
             "WANT MORE PRACTICE?": "DAHA FAZLA PRATİK YAPMAK MI İSTİYORSUN?",
             "What Next?": "Sıradaki Ne?",
-            "Won": "",
+            "Won": "Kazandın",
             "YOU ESCAPED": "KAÇTIN",
             "YOU ESCAPED?": "KAÇTIN?",
             "sampleR:2": {
@@ -482,7 +482,7 @@
                 "request2:Advanced Course": "Gelişmiş İmtihan",
                 "request2:Boost Course": "",
                 "request2:CAMPAIGN": "HİKAYE",
-                "request2:Comms Array": "",
+                "request2:Comms Array": "İletişim Dizisi",
                 "request2:Endless Abyss": "Sonsuz Hiçlik",
                 "request2:Endless Habitation": "Sonsuz Habitasyon",
                 "request2:Endless Nest": "Sonsuz Yuva",
@@ -490,10 +490,10 @@
                 "request2:Endless Silos": "Sonsuz Silolar",
                 "request2:Endless Substructure": "Sonsuz Altyapı",
                 "request2:Endless Superstructure": "Sonsuz Süperyapı",
-                "request2:Endless underworks": "",
-                "request2:Fractured Territory": "",
+                "request2:Endless underworks": "Sonsuz Yeraltı",
+                "request2:Fractured Territory": "Parçalı Bölge",
                 "request2:Global": "Küresel",
-                "request2:Roach Run": "",
+                "request2:Roach Run": "Böcek Avı",
                 "request2:Shuttered Rift": ""
             }
         },
@@ -540,7 +540,7 @@
         "Stats": {
             "Average Speed: {0} Meters": "Ortalama Sürat: {0} Metre",
             "Average Speed: {0} m/s": "Ortalama Sürat: {0} m/s",
-            "Best Distance: {0} Meters": "",
+            "Best Distance: {0} Meters": "En İyi Mesafe: {0} Metre",
             "Crimes Committed: {0}": "İşlenen Suçlar: {0}",
             "Current Roaches Stored: {0}": "",
             "Deaths: {0}": "Ölümler: {0}",
@@ -649,7 +649,7 @@
     },
     "LeaderBoard": {
         "LOADING...": "YÜKLENİYOR...",
-        "No Run Data Found.": "",
+        "No Run Data Found.": "Seans Verisi Bulunamadı.",
         "No Score Data Found.": "Skor Verisi Bulunamadı.",
         "SampleR:4Leaderboard": {
             "request0:Score: {0}": "Skor: {0}",
@@ -1671,14 +1671,14 @@
         "You have insufficient funds to purchase this.": "Bu satın alımı yapmak için yeterli krediniz bulunmamakta."
     },
     "Ro": {
-        "<color=red>A GIFT A GIFT A GIFT A GIFT A GIFT</color>": "",
+        "<color=red>A GIFT A GIFT A GIFT A GIFT A GIFT</color>": "<color=red>BİR HEDİYE BİR HEDİYE BİR HEDİYE BİR HEDİYE BİR HEDİYE</color>",
         "<color=red>DREAMS DREAMS DREAMS DREAMS</color>": "",
-        "<color=red>GO IN GO IN GO IN GO IN GO IN</color>": "",
-        "<color=red>GO IN GO IN GO IN GO IN</color>": "",
+        "<color=red>GO IN GO IN GO IN GO IN GO IN</color>": "<color=red>İÇERİ GİR İÇERİ GİR İÇERİ GİR İÇERİ GİR</color>",
+        "<color=red>GO IN GO IN GO IN GO IN</color>": "<color=red>İÇERİ GİR İÇERİ GİR İÇERİ GİR İÇERİ GİR</color>",
         "<color=red>POWER BEYOND ALL UNDERSTANDING</color>": "",
         "<color=red>THINK OF ALL YOU COULD HAVE</color>": "",
-        "<color=red>WE FOUND YOU WE FOUND YOU WE FOUND YOU</color>": "",
-        "<color=red>WE HAVE FOUND YOU, JOIN US AND WITNESS TRUE STRENGTH</color>": ""
+        "<color=red>WE FOUND YOU WE FOUND YOU WE FOUND YOU</color>": "<color=red>SENİ BULDUK SENİ BULDUK SENİ BULDUK </color>",
+        "<color=red>WE HAVE FOUND YOU, JOIN US AND WITNESS TRUE STRENGTH</color>": "<color=red>SENİ BULDUK, BİZE KATIL VE GERÇEK GÜCE TANIKLIK ET</color>"
     },
     "RoachTrader": {
         "{rand:Can I help you?:All Luck, Friend.:Need anything?:Good deals!:Any questions?:All clean, all fresh!:A little rust never hurt.:Only the highest quality.:See anything you like?:That’s a good one.:Low low prices, just for you.:Don’t worry, he doesn’t bite.: Don’t worry, I don’t bite.}": "",
@@ -1813,7 +1813,7 @@
         "LOCKER {0}": "",
         "No Saves, Perks, Shortcuts, or Starting Roaches": "",
         "SCORE MULTIPLIER:": "SKOR ÇARPANI:",
-        "Standardized Gamemode for Speedrunning": "",
+        "Standardized Gamemode for Speedrunning": "Speedrun İçin Standart Oyun Modu",
         "Start Run": "",
         "TRINKETS & BINDINGS": "",
         "Trinkets": "",
