@@ -388,7 +388,7 @@
         "CLIMBED {0} METERS": "{0} MÉTER MEGMÁSZVA",
         "Climb Distance: {0}": "Mászási Távolság: {0}",
         "Climb Speed: {0}": "Mászási Sebesség: {0}",
-        "Cost:{0} Bank:{1}": "",
+        "Cost:{0} Bank:{1}": "Ár:{0} Számla:{1}",
         "Dead": {
             "<color=grey>SCORE: {0}": "<color=grey>PONTSZÁM: {0}",
             "Average Ascent Rate: {0} m/s": "Átlagos Emelkedési Sebesség: {0} m/s",
