@@ -1,1 +1,184 @@
-{}
+{
+    "Main-Menu": {
+        "<color=red>You are playing on a game save from an old version</color>\n\nWe recommend erasing your save to ensure that you are experiencing the new progression as it is meant to be experienced. Additionally, some save information may not transfer correctly.\n\nDon't worry, we'll make a backup of your old data!": "<color=red>Vous êtes en train de jouer sur une sauvegarde provenant d'une version antérieure.</color>\nNous vous recommandons d'effacer votre sauvegarde pour être sûr que vous expérimentez la nouvelle progression telle que cela a été prévu. De plus, certaines informations sauvegardées ne pourraient pas être transférées entre les versions.\n\nPas d'inquiétude, nous allons faire une sauvegarde de vos anciennes données !",
+        "?": {
+            "Licensing ({0}/{1})": "Licence ({0}/{1})",
+            "Publishing ({0}/{1})": "Publié ({0}/{1})",
+            "Support ({0}/{1})": "Service d'assistance / Support ({0}/{1})",
+            "White Knuckle ({0}/{1})": "White Knuckle ({0}/{1})",
+            "sample:SupportC1": {
+                "Early Supporters": "Soutien de la première heure"
+            },
+            "sampleR:2PublishingC4": {
+                "request0:Community": "Communauté",
+                "request1:Discord moderators": "Modérateurs Discord"
+            },
+            "sampleR:2PublishingC5": {
+                "request0:Authorizers": "Autorités de validation",
+                "request1:Discord Leaderboards": "Classements Discord"
+            },
+            "sampleR:3PublishingC2": {
+                "request0:QA": "Assurance qualité",
+                "request1:Marketing Manager": "Responsable de la publicité",
+                "request2:Events and Sales Coordinator": "Coordinateur des événements et ventes"
+            },
+            "sampleR:3PublishingC3": {
+                "request0:Additional Community Management": "Responsable de la Communauté Supplémentaire",
+                "request1:Volunteer Moderators": "Modérateurs Volontaires"
+            },
+            "sampleR:4White KnuckleС2": {
+                "request0:Concept Art": "Concepts artistiques",
+                "request1:UI": "Interface",
+                "request2:In-game Illustration": "Illustrations en jeu",
+                "request3:Marketing & Trailers": "Publicité et Bandes annonces"
+            },
+            "sampleR:4White KnuckleС3": {
+                "request0:Voice Acting": "Doublage audio",
+                "request1:Writing": "Écriture du scénario",
+                "request2:Hand Artists": "Artistes manuels",
+                "request3:With Help From": "Avec l'aide de"
+            },
+            "sampleR:5White KnuckleС1": {
+                "request0:Dark Machine Games": "",
+                "request1:Programming": "Programmation",
+                "request2:Sound and Music": "Son et musique",
+                "request3:Game Design": "Design du Jeu",
+                "request4:Art and Animation": "Art et Animation"
+            },
+            "sampleR:6SupportC4": {
+                "request0:Special Thanks": "Remerciements particuliers",
+                "request1:Friends & Family": "Amis et Famille",
+                "request2:For putting up with us": "Pour nous avoir supportés",
+                "request3:From all of us at Dark Machine": "De nous tous à Dark Machine",
+                "request4:Thank you for being such amazing members of the community.": "Merci beaucoup à tous les membres de la communauté.",
+                "request5:And for all the support and feedback you've provided.": "Et du soutien et retours apportés."
+            },
+            "sampleR:7PublishingC1": {
+                "request0:DreadXP": "",
+                "request1:Executive Producer": "Producteur exécutif",
+                "request2:Director": "Directeur",
+                "request3:Head of Production and Operations": "Chef de la Production et des Opérations",
+                "request4:Producer - Project Manager": "Producteur - Responsable du Projet",
+                "request5:Producer - Release Manager": "Producteur - Responsable de la sortie du jeu",
+                "request6:Producer - QA Manager": "Producteur - Responsable de l'assurance qualité"
+            },
+            "sampleR:Licensing": {
+                "request0:Fonts": "Polices d'écritures",
+                "request1:A font by Daniel Linssen (Thank you": "Une police d'écriture par Daniel Linssen (Merci)"
+            }
+        },
+        "COSMETICS": "COSMÉTIQUES",
+        "ENTER CAMPAIGN SEED": "ENTRER LA GRAINE DE GÉNÉRATION DE LA CAMPAGNE",
+        "ENTER SEED": "ENTRER LA GRAINE DE GÉNÉRATION",
+        "Generate With Seed": "Générer avec la graine de génération",
+        "LOADING": "CHARGEMENT",
+        "LOGBOOK": "JOURNAL",
+        "Loading: {0}%": "Chargement : {0}%",
+        "Old": {
+            "BACKUP AND ERASE": "SAUVEGARDER ET EFFACER",
+            "CREDITS": "CRÉDITS",
+            "SKIP\n(NOT RECOMMENDED)": "PASSER\n(PAS RECOMMANDÉ)",
+            "Score Bonuses": "Bonus de Score",
+            "WARNING!": "ATTENTION !"
+        },
+        "Open Changelog": "Plus de détails",
+        "PLAY": "JOUER",
+        "QUIT": "QUITTER",
+        "SETTINGS": "PARAMÈTRES",
+        "SampleR:2Version": {
+            "request0:[white knuckle-": "[white knuckle-",
+            "request1:[early-access]": "[accès anticipé]"
+        },
+        "Update Info": "Voir dernière MàJ"
+    },
+    "Play": {
+        "Biomod Oversupply": "Surproduction de Bio-ressources",
+        "Buddy Trinket": "Balle anti-stress porte-bonheur",
+        "CHALLENGE": {
+            "<b>Welcome to the Advanced Course, Climber.</b>\n<color=#c0c0c0ff>Think you're ready to explore the Substructure and beyond?</color>\n- <color=yellow>Race to the end</color> as fast as possible.": "<b>Bienvenue au Tutoriel Avancé, Grimpeur.</b>\n<color=#c0c0c0ff>Penses-tu être prêt à explorer la superstructure et au delà?</color>\n- <color=yellow>Atteint la fin</color> le plus vite possible.",
+            "Advanced Course": "Tutoriel Avancé",
+            "CHALLENGE": "CHALLENGE",
+            "Fractured Territory": "Territoire Fracturé"
+        },
+        "CLOSE": "FERMER",
+        "DP-{0} Hatch Access": "DP-{0} Accès à l'écoutille",
+        "ENDLESS": {
+            "BEAT THE CAMPAIGN": "FINIR LA CAMPAGNE PRINCIPALE",
+            "Beat the Campaign": "Finir la campagne principale",
+            "COMING SOON": "PROCHAINEMENT",
+            "ENDLESS": "INFINI",
+            "Endless Abyss": "Abîme Infinie",
+            "Endless Habitation": "Habitation Infinie",
+            "Endless Nest": "Nid Infini",
+            "Endless Pipeworks": "Égouts Infinis",
+            "Endless Silos": "Silos Infinis",
+            "Endless Substructure": "Substructure Infinie",
+            "Endless Superstructure": "Superstructure Infinie",
+            "Endless Underworks": "Souterrains Infinis",
+            "REACH PIPEWORKS": "ATTEINDRE LES ÉGOUTS",
+            "Reach Habitation": "Atteindre l'Habitation",
+            "Reach Pipeworks": "Atteindre les Égouts",
+            "Reach The Nest": "Atteindre le Nid",
+            "Reach the Abyss": "Atteindre l'Abîme"
+        },
+        "Facility": "Installation",
+        "Facility Credits.": "Crédits virtuels de l'Installation.",
+        "Global Upgrades": {
+            "sampleG:Global Upgrades": {
+                "Biomod Oversupply": "Surproduction de Bio-ressources",
+                "Buddy Trinket": "Balle anti-stress porte-bonheur",
+                "CANNOT AFFORD": "IMPOSSIBLE D'ACHETER",
+                "Deactivates maintenance hatch locks in": "Déverrouille les verrous de l'écoutille de maintenance dans",
+                "Deactivates maintenance hatch locks in Interlude: Ascent.": "Déverrouille les verrous de l'écoutille de maintenance dans Interlude : Ascent.",
+                "Facility Credits.": "Crédits virtuels de l'Installation.",
+                "LOCKED": "VERROUILLÉ",
+                "NOT ENOUGH CREDITS": "PAS ASSEZ DE CRÉDITS",
+                "New Maintenance Worker Gloves (Cosmetic)": "Gants de maintenance neufs (Cosmétique)",
+                "Ornamental Hammer (Auction)": "Marteau Ornemental (Vente aux enchères)",
+                "Pouch Trinket": "Petit sac porte-bonheur",
+                "Release DP-{0} Maintenance Security Locks": "Déverrouiller DP-{0} verrous de sécurité de maintenance",
+                "Requires": "Nécessite",
+                "Slows time when your inventory is open.": "Ralentit le temps lorsque vous ouvrez votre inventaire.",
+                "Starter Loan": "Crédit de départ",
+                "Used Maintenance Worker Gloves (Cosmetic)": "Gants de maintenance d'occasion (Cosmétique)",
+                "Work Gloves (New)": "Gants de travail (Neufs)",
+                "Work Gloves (Used)": "Gants de travail (d'Occasion)",
+                "header:A set of specialty work gloves.": "Une paire de gants pour travailler dans la superstructure.",
+                "header:Available For All Maintenance Workers!": "Disponible pour tous les travailleurs de maintenance !",
+                "header:Calming Buddy Trinket: Feeling stressed?": "Balle anti-stress : vous en avez besoin ?",
+                "header:For sale: Discovered in the deep facility after the First Event, now available for auction!": "En vente : Découvert dans les profondeurs de l'Installation après le Premier Évènement, maintenant disponible aux enchères !",
+                "header:INSTALL COMPLETE": "INSTALLATION COMPLÈTE",
+                "header:Increases your starting roach bank withdrawal to {0} roaches.": "Augmente le nombre de cafards que vous pouvez retirer de votre réserve initiale à {0} cafards.",
+                "header:Installing..": "En cours d'installation..",
+                "header:LAST BID TIMED OUT. ERROR REACHING AUCTION DIRECTOR SERVICES.": "DÉLAI DE LA DERNIÈRE ENCHÈRE ÉCOULÉ. ERREUR LORS DE LA CONNEXION AUX SERVICES DU RESPONSABLE DES ENCHÈRES.",
+                "header:Maintenance Security Locks": "Verrous sécurisés de maintenance",
+                "header:Once per station, allows you to reroll perks, at a cost.": "Vous permet de relancer de nouveaux avantages par terminaux, à un certain prix.",
+                "header:Pouches can stack up to five items for the capacity of one.": "Un petit sac qui peut contenir jusqu'à cinq objets comme s'ils ne faisaient qu'un.",
+                "header:Starting Withdrawal Limit Increase": "En cours d'augmentation de la limite de retrait",
+                "header:THANK YOU FOR YOUR HARD WORK": "MERCI DE VOTRE DUR LABEUR",
+                "header:Withdraws from your": "Retire de votre"
+            }
+        },
+        "MAIN": {
+            "<color=#c0c0c0ff>Learn the basics of how to play White Knuckle.</color>\n- <color=yellow>Basic Climbing</color>\n- <color=yellow>Momentum and Stamina</color>\n- <color=yellow>Core Item Usage</color>": "<color=#c0c0c0ff>Apprenez les bases pour jouer à White Knuckle.</color>\n- <color=yellow>Initiation à l'escalade</color>\n- <color=yellow>Élan et endurance</color>\n- <color=yellow>Utilisation des objets de base</color>",
+            "CAMPAIGN": "CAMPAGNE PRINCIPAL",
+            "Campaign": "Campagne principale",
+            "Finish the Tutorial": "Finissez le Tutoriel",
+            "MAIN": "PRINCIPAL",
+            "Practice your technique in a safe environment.\n<color=yellow>- Race Mode\n<color=yellow>- Customizeable Difficulty\n<color=yellow>- Endless Climbing\n<color=red>Note: Some Achievements are blocked in this mode.</color>": "Entraînez vous dans un environnement sécurisé.\n<color=yellow>- Mode Course\n<color=yellow>- Difficulté personnalisable\n<color=yellow>- Escalade infinie!\n<color=red>Note : Certains succès sont désactivés dans ce mode.</color>",
+            "TRAINING": "ENTRAÎNEMENT",
+            "Training Sector": "Secteur d'entraînement",
+            "Tutorial": "TUTORIEL"
+        },
+        "NOT ENOUGH CREDITS": "PAS ASSEZ DE CRÉDITS",
+        "New Maintenance Worker Gloves (Cosmetic)": "Gants de maintenance neufs (Cosmétique)",
+        "Ornamental Hammer (Auction)": "Marteau Ornemental (Vente aux enchères)",
+        "Pouch Trinket": "Petit sac porte-bonheur",
+        "Requires Starter Loan ({0})": "Nécessite un crédit de départ ({0})",
+        "Starter Loan ({0})": "Crédit de départ ({0})",
+        "Used Maintenance Worker Gloves (Cosmetic)": "Gants de maintenance d'occasion (Cosmétique)",
+        "Work Gloves (New)": "Gants de travail (Neufs)",
+        "Work Gloves (Used)": "Gants de travail (d'Occasion)",
+        "You have insufficient funds to purchase this.": "Vous n'avez pas assez de fonds pour acheter ceci."
+    }
+}
