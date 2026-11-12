@@ -1,5 +1,28 @@
 {
     "Main-Menu": {
+        "<color=red>You are playing on a game save from an old version</color>\n\nWe recommend erasing your save to ensure that you are experiencing the new progression as it is meant to be experienced. Additionally, some save information may not transfer correctly.\n\nDon't worry, we'll make a backup of your old data!": "<color=red>Estás jugando con una partida guardada de una versión anterior</color>\n\nTe recomendamos que borres tu partida guardada para asegurarte de que disfrutas de la nueva progresión tal y como está pensada. Además, es posible que parte de la información guardada no se transfiera correctamente.\n\n¡No te preocupes, haremos una copia de seguridad de tus datos antiguos!",
+        "?": {
+            "White Knuckle ({0}/{1})": "White Knuckle ({0}/{1})",
+            "sampleR:4White KnuckleС2": {
+                "request0:Concept Art": "Arte conceptual",
+                "request1:UI": "Interfaz",
+                "request2:In-game Illustration": "Ilustraciones",
+                "request3:Marketing & Trailers": "Marketing y trailers"
+            },
+            "sampleR:4White KnuckleС3": {
+                "request0:Voice Acting": "Doblaje",
+                "request1:Writing": "Redacción",
+                "request2:Hand Artists": "Artistas a mano",
+                "request3:With Help From": "Con la ayuda de"
+            },
+            "sampleR:5White KnuckleС1": {
+                "request0:Dark Machine Games": "Dark Machine Games",
+                "request1:Programming": "Programación",
+                "request2:Sound and Music": "Sonido y música",
+                "request3:Game Design": "Diseño de videojuego",
+                "request4:Art and Animation": "Arte y animación"
+            }
+        },
         "COSMETICS": "COSMÉTICOS",
         "ENTER CAMPAIGN SEED": "INTRODUCIR LA SEMILLA DE LA CAMPAÑA",
         "ENTER SEED": "INGRESAR SEMILLA",
