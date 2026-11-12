@@ -2,6 +2,7 @@
     "Main-Menu": {
         "<color=red>You are playing on a game save from an old version</color>\n\nWe recommend erasing your save to ensure that you are experiencing the new progression as it is meant to be experienced. Additionally, some save information may not transfer correctly.\n\nDon't worry, we'll make a backup of your old data!": "<color=red>Estás jugando con una partida guardada de una versión anterior</color>\n\nTe recomendamos que borres tu partida guardada para asegurarte de que disfrutas de la nueva progresión tal y como está pensada. Además, es posible que parte de la información guardada no se transfiera correctamente.\n\n¡No te preocupes, haremos una copia de seguridad de tus datos antiguos!",
         "?": {
+            "Publishing ({0}/{1})": "Publicaciones ({0}/{1})",
             "White Knuckle ({0}/{1})": "White Knuckle ({0}/{1})",
             "sampleR:4White KnuckleС2": {
                 "request0:Concept Art": "Arte conceptual",
@@ -21,6 +22,12 @@
                 "request2:Sound and Music": "Sonido y música",
                 "request3:Game Design": "Diseño de videojuego",
                 "request4:Art and Animation": "Arte y animación"
+            },
+            "sampleR:7PublishingC1": {
+                "request0:DreadXP": "DreadXP",
+                "request1:Executive Producer": "Productor ejecutivo",
+                "request2:Director": "Director",
+                "request3:Head of Production and Operations": "Jefe de Producción y Operaciones"
             }
         },
         "COSMETICS": "COSMÉTICOS",
