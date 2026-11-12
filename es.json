@@ -1,5 +1,27 @@
 {
     "Main-Menu": {
-        "PLAY": "JUGAR"
+        "COSMETICS": "COSMÉTICOS",
+        "ENTER CAMPAIGN SEED": "INTRODUCIR LA SEMILLA DE LA CAMPAÑA",
+        "ENTER SEED": "INGRESAR SEMILLA",
+        "Generate With Seed": "Generar con semilla",
+        "LOADING": "CARGANDO",
+        "LOGBOOK": "BITÁCORA",
+        "Loading: {0}%": "Cargando: {0}%",
+        "Old": {
+            "BACKUP AND ERASE": "CREAR COPIA Y BORRAR",
+            "CREDITS": "CRÉDITOS",
+            "SKIP\n(NOT RECOMMENDED)": "SALTAR\n(NO RECOMENDADO)",
+            "Score Bonuses": "Bonus de puntaje",
+            "WARNING!": "¡ATENCIÓN!"
+        },
+        "Open Changelog": "Abrir registro de cambios",
+        "PLAY": "JUGAR",
+        "QUIT": "DEJAR",
+        "SETTINGS": "CONFIGURACIONES",
+        "SampleR:2Version": {
+            "request0:[white knuckle-": "[white knuckle-",
+            "request1:[early-access]": "[acceso-anticipado]"
+        },
+        "Update Info": "Actualizar información"
     }
 }
