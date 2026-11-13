@@ -1,1 +1,102 @@
-{}
+{
+    "Main-Menu": {
+        "<color=red>You are playing on a game save from an old version</color>\n\nWe recommend erasing your save to ensure that you are experiencing the new progression as it is meant to be experienced. Additionally, some save information may not transfer correctly.\n\nDon't worry, we'll make a backup of your old data!": "<color=red>Ви граєте у збереження зі старої версії гри</color>\n\nМи рекомендуємо почати нову гру, щоб переконатися що ваш досвід нової прогрессії відповідає нашому задуму. До того ж, деяка інформація зі збереження може переміститись некоректно.\n\nНе хвилюйтесь, ми зробимо резервну копію старої інформації!",
+        "?": {
+            "Licensing ({0}/{1})": "Ліцензії ({0}/{1})",
+            "Publishing ({0}/{1})": "Видавництво ({0}/{1})",
+            "Support ({0}/{1})": "Підтримка ({0}/{1})",
+            "White Knuckle ({0}/{1})": "White Knuckle ({0}/{1})",
+            "sample:SupportC1": {
+                "Early Supporters": "Ранні Прихильники"
+            },
+            "sampleR:2PublishingC4": {
+                "request0:Community": "Спільнота",
+                "request1:Discord moderators": "Модератори Діскорду"
+            },
+            "sampleR:2PublishingC5": {
+                "request0:Authorizers": "Авторизатори",
+                "request1:Discord Leaderboards": "Лідерборди Діскорду"
+            },
+            "sampleR:3PublishingC2": {
+                "request0:QA": "QA",
+                "request1:Marketing Manager": "Менеджер Маркетингу",
+                "request2:Events and Sales Coordinator": "Координатор Подій та Продажу"
+            },
+            "sampleR:3PublishingC3": {
+                "request0:Additional Community Management": "Додаткове Керівництво Спільноти",
+                "request1:Volunteer Moderators": "Модератори-волонтери",
+                "request2:Evolve PR": "Evolve PR"
+            },
+            "sampleR:4White KnuckleС2": {
+                "request0:Concept Art": "Концепт Арт",
+                "request1:UI": "Інтерфейс",
+                "request2:In-game Illustration": "Внутрішньоігрова Ілюстрація",
+                "request3:Marketing & Trailers": "Маркетинг і Трейлери"
+            },
+            "sampleR:4White KnuckleС3": {
+                "request0:Voice Acting": "Озвучування",
+                "request1:Writing": "Письменництво",
+                "request2:Hand Artists": "Ілюстратор Рук",
+                "request3:With Help From": "З Допомогою Від"
+            },
+            "sampleR:5White KnuckleС1": {
+                "request0:Dark Machine Games": "Dark Machine Games",
+                "request1:Programming": "Програмування",
+                "request2:Sound and Music": "Звук та Музика",
+                "request3:Game Design": "Ігровий Дизайн",
+                "request4:Art and Animation": "Ілюстрація та Анімація"
+            },
+            "sampleR:6SupportC4": {
+                "request0:Special Thanks": "Особлива Подяка",
+                "request1:Friends & Family": "Друзям та Сім'ї",
+                "request2:For putting up with us": "Що зтерпіли нас",
+                "request3:From all of us at Dark Machine": "Від усіх членів Dark Machine",
+                "request4:Thank you for being such amazing members of the community.": "Щиро дякуємо вас за те які ви класні члени спільноти.",
+                "request5:And for all the support and feedback you've provided.": "Та за всю підтримку та зворотній зв'язок що ви надали."
+            },
+            "sampleR:7PublishingC1": {
+                "request0:DreadXP": "DreadXP",
+                "request1:Executive Producer": "Виконавчий Продюсер",
+                "request2:Director": "Директор",
+                "request3:Head of Production and Operations": "Керівник Виробництва та Операцій",
+                "request4:Producer - Project Manager": "Продюсер - Менеджер Проєкту",
+                "request5:Producer - Release Manager": "Продюсер - Менеджер Релізів",
+                "request6:Producer - QA Manager": "Продюсер - QA Менеджер"
+            },
+            "sampleR:Licensing": {
+                "request0:Fonts": "Шрифти",
+                "request1:A font by Daniel Linssen (Thank you": "Шрифт розроблений Даніелем Лінсеном (Daniel Linssen) (Дякую"
+            }
+        },
+        "COSMETICS": "КОСМЕТИЧНІ ЗМІНИ",
+        "ENTER CAMPAIGN SEED": "ВВЕДІТЬ КЛЮЧ ГЕНЕРАЦІЇ КАМПАНІЇ",
+        "ENTER SEED": "ВВЕСТИ КЛЮЧ ГЕНЕРАЦІЇ",
+        "Generate With Seed": "Почати З Ключем Генерації",
+        "LOADING": "ЗАВАНТАЖЕННЯ",
+        "LOGBOOK": "ЖУРНАЛ",
+        "Loading: {0}%": "Завантаження {0}%",
+        "Old": {
+            "BACKUP AND ERASE": "РЕЗЕРВНЕ КОПІЮВАННЯ ТА ВИДАЛЕННЯ",
+            "CREDITS": "КОМАНДА ТА РЕСУРСИ",
+            "SKIP\n(NOT RECOMMENDED)": "ПРОПУСТИТИ\n(НЕ РЕКОМЕНДОВАНО)",
+            "Score Bonuses": "Бонуси Рахунку",
+            "WARNING!": "УВАГА!"
+        },
+        "Open Changelog": "Журнал Змін",
+        "PLAY": "ГРАТИ",
+        "QUIT": "ВИЙТИ",
+        "SETTINGS": "НАЛАШТУВАННЯ",
+        "SampleR:2Version": {
+            "request0:[white knuckle-": "[white knuckle-",
+            "request1:[early-access]": "[early-access]"
+        },
+        "Update Info": "Інформація Про Оновлення"
+    },
+    "Play": {
+        "CLOSE": "ЗАЧИНИТИ",
+        "Facility": "Комплекс",
+        "Ornamental Hammer (Auction)": "Орнаментований Молоток (Аукціон)",
+        "Work Gloves (New)": "Робочі Рукавиці (Нові)",
+        "Work Gloves (Used)": "Робочі Рукавиці (Вживані)"
+    }
+}
