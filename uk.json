@@ -95,7 +95,10 @@
     "Play": {
         "CLOSE": "ЗАЧИНИТИ",
         "Facility": "Комплекс",
+        "New Maintenance Worker Gloves (Cosmetic)": "Нові Рукавиці Робітника Ремонтника (Косметичний Предмет)",
         "Ornamental Hammer (Auction)": "Орнаментований Молоток (Аукціон)",
+        "Starter Loan ({0})": "Початковий Борг ({0})",
+        "Used Maintenance Worker Gloves (Cosmetic)": "Вживані Рукавиці Робітника Ремонтника (Косметичний Предмет)",
         "Work Gloves (New)": "Робочі Рукавиці (Нові)",
         "Work Gloves (Used)": "Робочі Рукавиці (Вживані)"
     }
