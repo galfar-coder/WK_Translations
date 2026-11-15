@@ -93,10 +93,12 @@
         "Update Info": "Інформація Про Оновлення"
     },
     "Play": {
+        "Biomod Oversupply": "Профіцит Біомодів",
         "CLOSE": "ЗАЧИНИТИ",
         "Facility": "Комплекс",
         "New Maintenance Worker Gloves (Cosmetic)": "Нові Рукавиці Робітника Ремонтника (Косметичний Предмет)",
         "Ornamental Hammer (Auction)": "Орнаментований Молоток (Аукціон)",
+        "Requires Starter Loan ({0})": "Потребує Початковий Кредит ({0})",
         "Starter Loan ({0})": "Початковий Борг ({0})",
         "Used Maintenance Worker Gloves (Cosmetic)": "Вживані Рукавиці Робітника Ремонтника (Косметичний Предмет)",
         "Work Gloves (New)": "Робочі Рукавиці (Нові)",
