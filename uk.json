@@ -1,4 +1,26 @@
 {
+    "Cosmetics": {
+        "Hands": {
+            "Authors": {
+                "Balabanobo": "Balabanobo",
+                "Holly": "Holly",
+                "Quinn": "Quinn"
+            },
+            "Colors": {
+                "Accessory Opacity": "Прозорість аксесуару",
+                "Black ({0}/{1})": "Чорний ({0}/{1})",
+                "Blue ({0}/{1})": "Синій ({0}/{1})",
+                "Brown ({0}/{1})": "Коричневий ({0}/{1})",
+                "Color": "Колір",
+                "Green ({0}/{1})": "Зелений ({0}/{1})",
+                "Grey ({0}/{1})": "Сірий ({0}/{1})",
+                "Palette: {0}": "Палітра: {0}",
+                "Red ({0}/{1})": "Червоний ({0}\\{1})",
+                "Teal ({0}/{1})": "Бірюзовий ({0}/{1})",
+                "White ({0}/{1})": "Білий ({0}/{1})"
+            }
+        }
+    },
     "Main-Menu": {
         "<color=red>You are playing on a game save from an old version</color>\n\nWe recommend erasing your save to ensure that you are experiencing the new progression as it is meant to be experienced. Additionally, some save information may not transfer correctly.\n\nDon't worry, we'll make a backup of your old data!": "<color=red>Ви граєте у збереження зі старої версії гри</color>\n\nМи рекомендуємо почати нову гру, щоб переконатися що ваш досвід нової прогрессії відповідає нашому задуму. До того ж, деяка інформація зі збереження може переміститись некоректно.\n\nНе хвилюйтесь, ми зробимо резервну копію старої інформації!",
         "?": {
@@ -74,7 +96,7 @@
         "Generate With Seed": "Почати З Ключем Генерації",
         "LOADING": "ЗАВАНТАЖЕННЯ",
         "LOGBOOK": "ЖУРНАЛ",
-        "Loading: {0}%": "Завантаження {0}%",
+        "Loading: {0}%": "Завантаження: {0}%",
         "Old": {
             "BACKUP AND ERASE": "РЕЗЕРВНЕ КОПІЮВАННЯ ТА ВИДАЛЕННЯ",
             "CREDITS": "КОМАНДА ТА РЕСУРСИ",
@@ -96,6 +118,13 @@
         "Biomod Oversupply": "Профіцит Біомодів",
         "CLOSE": "ЗАЧИНИТИ",
         "Facility": "Комплекс",
+        "Global Upgrades": {
+            "sampleG:Global Upgrades": {
+                "LOCKED": "ЗАБЛОКОВАНО",
+                "Requires": "Потребує",
+                "Slows time when your inventory is open.": "Сповільнює час під час відкривання інвентарю"
+            }
+        },
         "New Maintenance Worker Gloves (Cosmetic)": "Нові Рукавиці Робітника Ремонтника (Косметичний Предмет)",
         "Ornamental Hammer (Auction)": "Орнаментований Молоток (Аукціон)",
         "Requires Starter Loan ({0})": "Потребує Початковий Кредит ({0})",
