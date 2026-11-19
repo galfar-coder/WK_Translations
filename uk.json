@@ -58,8 +58,8 @@
             "sampleR:4White KnuckleС3": {
                 "request0:Voice Acting": "Озвучування",
                 "request1:Writing": "Письменництво",
-                "request2:Hand Artists": "Ілюстратор Рук",
-                "request3:With Help From": "З Допомогою Від"
+                "request2:Hand Artists": "Ілюстратори Рук",
+                "request3:With Help From": "Допомогли"
             },
             "sampleR:5White KnuckleС1": {
                 "request0:Dark Machine Games": "Dark Machine Games",
@@ -116,21 +116,31 @@
     },
     "Play": {
         "Biomod Oversupply": "Профіцит Біомодів",
+        "Buddy Trinket": "Дрібничка: Бадді",
         "CLOSE": "ЗАЧИНИТИ",
+        "DP-{0} Hatch Access": "Доступ До Люку DP-{0}",
         "Facility": "Комплекс",
+        "Facility Credits.": "Кредити Комплексу",
         "Global Upgrades": {
             "sampleG:Global Upgrades": {
                 "LOCKED": "ЗАБЛОКОВАНО",
                 "Requires": "Потребує",
-                "Slows time when your inventory is open.": "Сповільнює час під час відкривання інвентарю"
+                "Slows time when your inventory is open.": "Сповільнює час коли інвентар відкрито.",
+                "header:INSTALL COMPLETE": "ВСТАНОВЛЕННЯ ЗАВЕРШЕНО",
+                "header:Increases your starting roach bank withdrawal to {0} roaches.": "Збільшує рахунок на початку гри до {0} тарганів.",
+                "header:Installing..": "Встановлення..",
+                "header:THANK YOU FOR YOUR HARD WORK": "ДЯКУЮ ЗА ВАШУ НАПОЛЕГЛИВУ ПРАЦЮ"
             }
         },
+        "NOT ENOUGH CREDITS": "НЕДОСТАТНЬО КРЕДИТІВ",
         "New Maintenance Worker Gloves (Cosmetic)": "Нові Рукавиці Робітника Ремонтника (Косметичний Предмет)",
         "Ornamental Hammer (Auction)": "Орнаментований Молоток (Аукціон)",
+        "Pouch Trinket": "Дрібничка: Підсумок",
         "Requires Starter Loan ({0})": "Потребує Початковий Кредит ({0})",
         "Starter Loan ({0})": "Початковий Борг ({0})",
         "Used Maintenance Worker Gloves (Cosmetic)": "Вживані Рукавиці Робітника Ремонтника (Косметичний Предмет)",
         "Work Gloves (New)": "Робочі Рукавиці (Нові)",
-        "Work Gloves (Used)": "Робочі Рукавиці (Вживані)"
+        "Work Gloves (Used)": "Робочі Рукавиці (Вживані)",
+        "You have insufficient funds to purchase this.": "У вас недостатньо кредитів для цієї покупки."
     }
 }
